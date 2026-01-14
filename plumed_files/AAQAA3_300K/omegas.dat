@@ -1,0 +1,22 @@
+MOLINFO STRUCTURE=processed.pdb MOLTYPE=protein
+
+WHOLEMOLECULES ENTITY0=1-180
+
+omega2: TORSION ATOMS=@omega-2 NOPBC
+omega3: TORSION ATOMS=@omega-3 NOPBC
+omega4: TORSION ATOMS=@omega-4 NOPBC
+omega5: TORSION ATOMS=@omega-5 NOPBC
+omega6: TORSION ATOMS=@omega-6 NOPBC
+omega7: TORSION ATOMS=@omega-7 NOPBC
+omega8: TORSION ATOMS=@omega-8 NOPBC
+omega9: TORSION ATOMS=@omega-9 NOPBC
+omega10: TORSION ATOMS=@omega-10 NOPBC
+omega11: TORSION ATOMS=@omega-11 NOPBC
+omega12: TORSION ATOMS=@omega-12 NOPBC
+omega13: TORSION ATOMS=@omega-13 NOPBC
+omega14: TORSION ATOMS=@omega-14 NOPBC
+omega15: TORSION ATOMS=@omega-15 NOPBC
+omega16: TORSION ATOMS=@omega-16 NOPBC
+
+
+PRINT ARG=omega2,omega3,omega4,omega5,omega6,omega7,omega8,omega9,omega10,omega11,omega12,omega13,omega14,omega15,omega16, STRIDE=1 FILE=OMEGAS

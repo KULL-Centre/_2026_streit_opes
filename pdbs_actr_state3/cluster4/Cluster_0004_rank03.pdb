@@ -1,0 +1,1075 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1  110.593  110.593  110.593  60.00  60.00  90.00 P 1           1
+ATOM      1  N   GLY X   1      99.590  66.680  26.540  1.00  0.00      SYST N  
+ATOM      2  H   GLY X   1      98.660  66.540  26.900  1.00  0.00      SYST    
+ATOM      3  H2  GLY X   1      99.880  65.830  26.070  1.00  0.00      SYST    
+ATOM      4  H3  GLY X   1     100.180  66.850  27.340  1.00  0.00      SYST    
+ATOM      5  CA  GLY X   1      99.650  67.790  25.630  1.00  0.00      SYST C  
+ATOM      6  HA1 GLY X   1      99.000  67.780  24.760  1.00  0.00      SYST    
+ATOM      7  HA2 GLY X   1     100.670  67.940  25.280  1.00  0.00      SYST    
+ATOM      8  C   GLY X   1      99.380  69.130  26.360  1.00  0.00      SYST C  
+ATOM      9  O   GLY X   1      98.480  69.290  27.220  1.00  0.00      SYST O  
+ATOM     10  N   THR X   2     100.040  70.170  25.860  1.00  0.00      SYST N  
+ATOM     11  H   THR X   2     100.650  70.030  25.070  1.00  0.00      SYST    
+ATOM     12  CA  THR X   2      99.870  71.650  26.430  1.00  0.00      SYST C  
+ATOM     13  HA  THR X   2      99.790  71.670  27.530  1.00  0.00      SYST    
+ATOM     14  CB  THR X   2     101.120  72.500  26.090  1.00  0.00      SYST C  
+ATOM     15  HB  THR X   2     101.010  73.570  26.270  1.00  0.00      SYST    
+ATOM     16  CG2 THR X   2     102.310  72.130  26.910  1.00  0.00      SYST C  
+ATOM     17 HG21 THR X   2     102.400  71.050  26.860  1.00  0.00      SYST    
+ATOM     18 HG22 THR X   2     103.260  72.510  26.550  1.00  0.00      SYST    
+ATOM     19 HG23 THR X   2     102.150  72.350  27.980  1.00  0.00      SYST    
+ATOM     20  OG1 THR X   2     101.410  72.390  24.670  1.00  0.00      SYST O  
+ATOM     21  HG1 THR X   2     101.920  73.180  24.530  1.00  0.00      SYST    
+ATOM     22  C   THR X   2      98.600  72.310  25.910  1.00  0.00      SYST C  
+ATOM     23  O   THR X   2      98.560  73.480  25.530  1.00  0.00      SYST O  
+ATOM     24  N   GLN X   3      97.520  71.550  25.660  1.00  0.00      SYST N  
+ATOM     25  H   GLN X   3      97.550  70.590  25.970  1.00  0.00      SYST    
+ATOM     26  CA  GLN X   3      96.180  71.980  25.240  1.00  0.00      SYST C  
+ATOM     27  HA  GLN X   3      96.170  72.720  24.440  1.00  0.00      SYST    
+ATOM     28  CB  GLN X   3      95.170  70.830  24.920  1.00  0.00      SYST C  
+ATOM     29  HB1 GLN X   3      94.290  71.280  24.470  1.00  0.00      SYST    
+ATOM     30  HB2 GLN X   3      94.730  70.380  25.820  1.00  0.00      SYST    
+ATOM     31  CG  GLN X   3      95.680  69.680  24.070  1.00  0.00      SYST C  
+ATOM     32  HG1 GLN X   3      96.500  69.260  24.660  1.00  0.00      SYST    
+ATOM     33  HG2 GLN X   3      96.140  70.130  23.200  1.00  0.00      SYST    
+ATOM     34  CD  GLN X   3      94.770  68.560  23.910  1.00  0.00      SYST C  
+ATOM     35  OE1 GLN X   3      94.180  68.110  24.850  1.00  0.00      SYST O  
+ATOM     36  NE2 GLN X   3      94.600  67.970  22.750  1.00  0.00      SYST N  
+ATOM     37 HE21 GLN X   3      95.060  68.180  21.880  1.00  0.00      SYST    
+ATOM     38 HE22 GLN X   3      94.150  67.070  22.670  1.00  0.00      SYST    
+ATOM     39  C   GLN X   3      95.530  72.800  26.380  1.00  0.00      SYST C  
+ATOM     40  O   GLN X   3      95.780  72.520  27.600  1.00  0.00      SYST O  
+ATOM     41  N   ASN X   4      94.700  73.760  26.040  1.00  0.00      SYST N  
+ATOM     42  H   ASN X   4      94.640  73.820  25.030  1.00  0.00      SYST    
+ATOM     43  CA  ASN X   4      93.970  74.770  26.860  1.00  0.00      SYST C  
+ATOM     44  HA  ASN X   4      94.360  74.810  27.880  1.00  0.00      SYST    
+ATOM     45  CB  ASN X   4      94.220  76.210  26.400  1.00  0.00      SYST C  
+ATOM     46  HB1 ASN X   4      93.600  76.850  27.020  1.00  0.00      SYST    
+ATOM     47  HB2 ASN X   4      93.870  76.340  25.380  1.00  0.00      SYST    
+ATOM     48  CG  ASN X   4      95.620  76.750  26.450  1.00  0.00      SYST C  
+ATOM     49  OD1 ASN X   4      96.150  77.040  27.520  1.00  0.00      SYST O  
+ATOM     50  ND2 ASN X   4      96.240  76.960  25.350  1.00  0.00      SYST N  
+ATOM     51 HD21 ASN X   4      95.940  76.890  24.380  1.00  0.00      SYST    
+ATOM     52 HD22 ASN X   4      97.150  77.390  25.450  1.00  0.00      SYST    
+ATOM     53  C   ASN X   4      92.480  74.500  26.890  1.00  0.00      SYST C  
+ATOM     54  O   ASN X   4      91.630  75.320  26.500  1.00  0.00      SYST O  
+ATOM     55  N   ARG X   5      92.050  73.290  27.160  1.00  0.00      SYST N  
+ATOM     56  H   ARG X   5      92.710  72.660  27.600  1.00  0.00      SYST    
+ATOM     57  CA  ARG X   5      90.630  72.950  27.220  1.00  0.00      SYST C  
+ATOM     58  HA  ARG X   5      90.120  73.400  26.370  1.00  0.00      SYST    
+ATOM     59  CB  ARG X   5      90.370  71.460  27.120  1.00  0.00      SYST C  
+ATOM     60  HB1 ARG X   5      89.290  71.300  27.150  1.00  0.00      SYST    
+ATOM     61  HB2 ARG X   5      90.960  71.020  27.920  1.00  0.00      SYST    
+ATOM     62  CG  ARG X   5      90.750  70.880  25.760  1.00  0.00      SYST C  
+ATOM     63  HG1 ARG X   5      91.820  71.060  25.620  1.00  0.00      SYST    
+ATOM     64  HG2 ARG X   5      90.200  71.370  24.960  1.00  0.00      SYST    
+ATOM     65  CD  ARG X   5      90.480  69.340  25.750  1.00  0.00      SYST C  
+ATOM     66  HD1 ARG X   5      89.430  69.120  25.950  1.00  0.00      SYST    
+ATOM     67  HD2 ARG X   5      90.890  68.860  26.630  1.00  0.00      SYST    
+ATOM     68  NE  ARG X   5      90.840  68.640  24.460  1.00  0.00      SYST N  
+ATOM     69  HE  ARG X   5      91.080  69.170  23.640  1.00  0.00      SYST    
+ATOM     70  CZ  ARG X   5      90.880  67.350  24.200  1.00  0.00      SYST C  
+ATOM     71  NH1 ARG X   5      90.480  66.490  25.120  1.00  0.00      SYST N  
+ATOM     72 HH11 ARG X   5      90.090  66.890  25.960  1.00  0.00      SYST    
+ATOM     73 HH12 ARG X   5      90.230  65.580  24.760  1.00  0.00      SYST    
+ATOM     74  NH2 ARG X   5      91.140  66.980  22.960  1.00  0.00      SYST N  
+ATOM     75 HH21 ARG X   5      91.340  67.690  22.280  1.00  0.00      SYST    
+ATOM     76 HH22 ARG X   5      91.420  66.020  22.830  1.00  0.00      SYST    
+ATOM     77  C   ARG X   5      90.020  73.440  28.610  1.00  0.00      SYST C  
+ATOM     78  O   ARG X   5      90.600  73.230  29.690  1.00  0.00      SYST O  
+ATOM     79  N   PRO X   6      88.910  74.230  28.650  1.00  0.00      SYST N  
+ATOM     80  CD  PRO X   6      88.030  74.540  27.520  1.00  0.00      SYST C  
+ATOM     81  HD1 PRO X   6      87.320  73.720  27.370  1.00  0.00      SYST    
+ATOM     82  HD2 PRO X   6      88.550  74.640  26.560  1.00  0.00      SYST    
+ATOM     83  CG  PRO X   6      87.320  75.870  27.970  1.00  0.00      SYST C  
+ATOM     84  HG1 PRO X   6      86.360  76.060  27.490  1.00  0.00      SYST    
+ATOM     85  HG2 PRO X   6      87.990  76.710  27.800  1.00  0.00      SYST    
+ATOM     86  CB  PRO X   6      87.200  75.640  29.470  1.00  0.00      SYST C  
+ATOM     87  HB1 PRO X   6      86.280  75.120  29.740  1.00  0.00      SYST    
+ATOM     88  HB2 PRO X   6      87.080  76.600  29.970  1.00  0.00      SYST    
+ATOM     89  CA  PRO X   6      88.550  74.990  29.800  1.00  0.00      SYST C  
+ATOM     90  HA  PRO X   6      89.280  75.780  29.930  1.00  0.00      SYST    
+ATOM     91  C   PRO X   6      88.380  74.190  31.050  1.00  0.00      SYST C  
+ATOM     92  O   PRO X   6      87.690  73.170  31.060  1.00  0.00      SYST O  
+ATOM     93  N   LEU X   7      88.970  74.840  32.070  1.00  0.00      SYST N  
+ATOM     94  H   LEU X   7      89.360  75.740  31.830  1.00  0.00      SYST    
+ATOM     95  CA  LEU X   7      88.970  74.400  33.500  1.00  0.00      SYST C  
+ATOM     96  HA  LEU X   7      89.430  73.410  33.500  1.00  0.00      SYST    
+ATOM     97  CB  LEU X   7      89.750  75.280  34.430  1.00  0.00      SYST C  
+ATOM     98  HB1 LEU X   7      89.500  75.080  35.470  1.00  0.00      SYST    
+ATOM     99  HB2 LEU X   7      89.450  76.320  34.250  1.00  0.00      SYST    
+ATOM    100  CG  LEU X   7      91.270  75.100  34.270  1.00  0.00      SYST C  
+ATOM    101  HG  LEU X   7      91.620  74.070  34.310  1.00  0.00      SYST    
+ATOM    102  CD1 LEU X   7      91.750  75.760  32.950  1.00  0.00      SYST C  
+ATOM    103 HD11 LEU X   7      92.830  75.840  32.980  1.00  0.00      SYST    
+ATOM    104 HD12 LEU X   7      91.360  75.250  32.060  1.00  0.00      SYST    
+ATOM    105 HD13 LEU X   7      91.510  76.820  32.920  1.00  0.00      SYST    
+ATOM    106  CD2 LEU X   7      92.010  75.870  35.370  1.00  0.00      SYST C  
+ATOM    107 HD21 LEU X   7      91.800  76.940  35.260  1.00  0.00      SYST    
+ATOM    108 HD22 LEU X   7      91.620  75.550  36.330  1.00  0.00      SYST    
+ATOM    109 HD23 LEU X   7      93.090  75.710  35.360  1.00  0.00      SYST    
+ATOM    110  C   LEU X   7      87.550  74.240  33.980  1.00  0.00      SYST C  
+ATOM    111  O   LEU X   7      87.490  73.580  35.040  1.00  0.00      SYST O  
+ATOM    112  N   LEU X   8      86.500  74.760  33.390  1.00  0.00      SYST N  
+ATOM    113  H   LEU X   8      86.640  75.400  32.620  1.00  0.00      SYST    
+ATOM    114  CA  LEU X   8      85.100  74.460  33.690  1.00  0.00      SYST C  
+ATOM    115  HA  LEU X   8      84.990  74.760  34.740  1.00  0.00      SYST    
+ATOM    116  CB  LEU X   8      84.150  75.330  32.870  1.00  0.00      SYST C  
+ATOM    117  HB1 LEU X   8      84.440  75.260  31.820  1.00  0.00      SYST    
+ATOM    118  HB2 LEU X   8      84.360  76.390  33.000  1.00  0.00      SYST    
+ATOM    119  CG  LEU X   8      82.620  75.140  33.100  1.00  0.00      SYST C  
+ATOM    120  HG  LEU X   8      82.470  74.060  33.040  1.00  0.00      SYST    
+ATOM    121  CD1 LEU X   8      82.190  75.640  34.470  1.00  0.00      SYST C  
+ATOM    122 HD11 LEU X   8      82.650  75.220  35.370  1.00  0.00      SYST    
+ATOM    123 HD12 LEU X   8      82.450  76.690  34.480  1.00  0.00      SYST    
+ATOM    124 HD13 LEU X   8      81.110  75.540  34.520  1.00  0.00      SYST    
+ATOM    125  CD2 LEU X   8      81.830  75.850  32.010  1.00  0.00      SYST C  
+ATOM    126 HD21 LEU X   8      81.890  75.270  31.090  1.00  0.00      SYST    
+ATOM    127 HD22 LEU X   8      80.800  76.060  32.310  1.00  0.00      SYST    
+ATOM    128 HD23 LEU X   8      82.300  76.810  31.810  1.00  0.00      SYST    
+ATOM    129  C   LEU X   8      84.890  72.930  33.630  1.00  0.00      SYST C  
+ATOM    130  O   LEU X   8      84.210  72.290  34.480  1.00  0.00      SYST O  
+ATOM    131  N   ARG X   9      85.410  72.290  32.590  1.00  0.00      SYST N  
+ATOM    132  H   ARG X   9      85.980  72.900  32.020  1.00  0.00      SYST    
+ATOM    133  CA  ARG X   9      85.280  70.790  32.310  1.00  0.00      SYST C  
+ATOM    134  HA  ARG X   9      84.910  70.320  33.220  1.00  0.00      SYST    
+ATOM    135  CB  ARG X   9      84.320  70.510  31.180  1.00  0.00      SYST C  
+ATOM    136  HB1 ARG X   9      84.370  69.430  31.070  1.00  0.00      SYST    
+ATOM    137  HB2 ARG X   9      84.890  70.890  30.340  1.00  0.00      SYST    
+ATOM    138  CG  ARG X   9      82.890  71.200  31.130  1.00  0.00      SYST C  
+ATOM    139  HG1 ARG X   9      82.920  72.280  31.010  1.00  0.00      SYST    
+ATOM    140  HG2 ARG X   9      82.380  71.050  32.090  1.00  0.00      SYST    
+ATOM    141  CD  ARG X   9      81.980  70.700  29.990  1.00  0.00      SYST C  
+ATOM    142  HD1 ARG X   9      80.940  71.000  30.120  1.00  0.00      SYST    
+ATOM    143  HD2 ARG X   9      82.020  69.620  29.930  1.00  0.00      SYST    
+ATOM    144  NE  ARG X   9      82.450  71.200  28.690  1.00  0.00      SYST N  
+ATOM    145  HE  ARG X   9      83.290  71.750  28.610  1.00  0.00      SYST    
+ATOM    146  CZ  ARG X   9      82.070  70.810  27.450  1.00  0.00      SYST C  
+ATOM    147  NH1 ARG X   9      81.030  70.140  27.270  1.00  0.00      SYST N  
+ATOM    148 HH11 ARG X   9      80.430  69.930  28.060  1.00  0.00      SYST    
+ATOM    149 HH12 ARG X   9      80.610  70.050  26.360  1.00  0.00      SYST    
+ATOM    150  NH2 ARG X   9      82.850  70.970  26.440  1.00  0.00      SYST N  
+ATOM    151 HH21 ARG X   9      82.620  70.670  25.510  1.00  0.00      SYST    
+ATOM    152 HH22 ARG X   9      83.750  71.410  26.530  1.00  0.00      SYST    
+ATOM    153  C   ARG X   9      86.630  70.020  32.130  1.00  0.00      SYST C  
+ATOM    154  O   ARG X   9      86.690  68.990  31.550  1.00  0.00      SYST O  
+ATOM    155  N   ASN X  10      87.710  70.510  32.650  1.00  0.00      SYST N  
+ATOM    156  H   ASN X  10      87.650  71.360  33.190  1.00  0.00      SYST    
+ATOM    157  CA  ASN X  10      89.030  69.930  32.440  1.00  0.00      SYST C  
+ATOM    158  HA  ASN X  10      88.880  68.850  32.360  1.00  0.00      SYST    
+ATOM    159  CB  ASN X  10      89.760  70.530  31.240  1.00  0.00      SYST C  
+ATOM    160  HB1 ASN X  10      90.810  70.240  31.280  1.00  0.00      SYST    
+ATOM    161  HB2 ASN X  10      89.770  71.620  31.320  1.00  0.00      SYST    
+ATOM    162  CG  ASN X  10      89.140  70.110  29.880  1.00  0.00      SYST C  
+ATOM    163  OD1 ASN X  10      89.580  69.120  29.310  1.00  0.00      SYST O  
+ATOM    164  ND2 ASN X  10      88.050  70.830  29.430  1.00  0.00      SYST N  
+ATOM    165 HD21 ASN X  10      87.760  71.530  30.090  1.00  0.00      SYST    
+ATOM    166 HD22 ASN X  10      87.600  70.500  28.580  1.00  0.00      SYST    
+ATOM    167  C   ASN X  10      89.780  70.200  33.770  1.00  0.00      SYST C  
+ATOM    168  O   ASN X  10      89.850  71.300  34.270  1.00  0.00      SYST O  
+ATOM    169  N   SER X  11      90.410  69.110  34.320  1.00  0.00      SYST N  
+ATOM    170  H   SER X  11      90.150  68.230  33.890  1.00  0.00      SYST    
+ATOM    171  CA  SER X  11      91.180  69.100  35.520  1.00  0.00      SYST C  
+ATOM    172  HA  SER X  11      90.930  70.020  36.050  1.00  0.00      SYST    
+ATOM    173  CB  SER X  11      90.960  67.940  36.420  1.00  0.00      SYST C  
+ATOM    174  HB1 SER X  11      91.170  66.970  35.970  1.00  0.00      SYST    
+ATOM    175  HB2 SER X  11      89.910  67.870  36.730  1.00  0.00      SYST    
+ATOM    176  OG  SER X  11      91.700  68.100  37.600  1.00  0.00      SYST O  
+ATOM    177  HG  SER X  11      91.260  67.500  38.200  1.00  0.00      SYST    
+ATOM    178  C   SER X  11      92.670  69.230  35.140  1.00  0.00      SYST C  
+ATOM    179  O   SER X  11      93.150  68.610  34.180  1.00  0.00      SYST O  
+ATOM    180  N   LEU X  12      93.400  70.010  35.890  1.00  0.00      SYST N  
+ATOM    181  H   LEU X  12      92.950  70.460  36.670  1.00  0.00      SYST    
+ATOM    182  CA  LEU X  12      94.820  70.190  35.850  1.00  0.00      SYST C  
+ATOM    183  HA  LEU X  12      94.970  70.670  34.880  1.00  0.00      SYST    
+ATOM    184  CB  LEU X  12      95.290  71.130  36.960  1.00  0.00      SYST C  
+ATOM    185  HB1 LEU X  12      96.350  71.330  37.060  1.00  0.00      SYST    
+ATOM    186  HB2 LEU X  12      95.030  70.710  37.930  1.00  0.00      SYST    
+ATOM    187  CG  LEU X  12      94.670  72.560  36.900  1.00  0.00      SYST C  
+ATOM    188  HG  LEU X  12      93.580  72.510  36.860  1.00  0.00      SYST    
+ATOM    189  CD1 LEU X  12      94.960  73.350  38.130  1.00  0.00      SYST C  
+ATOM    190 HD11 LEU X  12      96.050  73.360  38.270  1.00  0.00      SYST    
+ATOM    191 HD12 LEU X  12      94.570  74.360  38.030  1.00  0.00      SYST    
+ATOM    192 HD13 LEU X  12      94.340  72.850  38.870  1.00  0.00      SYST    
+ATOM    193  CD2 LEU X  12      95.240  73.330  35.760  1.00  0.00      SYST C  
+ATOM    194 HD21 LEU X  12      95.020  74.380  35.960  1.00  0.00      SYST    
+ATOM    195 HD22 LEU X  12      96.320  73.190  35.680  1.00  0.00      SYST    
+ATOM    196 HD23 LEU X  12      94.820  73.090  34.780  1.00  0.00      SYST    
+ATOM    197  C   LEU X  12      95.690  68.910  35.970  1.00  0.00      SYST C  
+ATOM    198  O   LEU X  12      96.770  68.810  35.360  1.00  0.00      SYST O  
+ATOM    199  N   ASP X  13      95.150  67.940  36.690  1.00  0.00      SYST N  
+ATOM    200  H   ASP X  13      94.210  68.090  37.020  1.00  0.00      SYST    
+ATOM    201  CA  ASP X  13      95.530  66.530  36.810  1.00  0.00      SYST C  
+ATOM    202  HA  ASP X  13      96.480  66.500  37.330  1.00  0.00      SYST    
+ATOM    203  CB  ASP X  13      94.440  65.660  37.530  1.00  0.00      SYST C  
+ATOM    204  HB1 ASP X  13      94.730  64.610  37.500  1.00  0.00      SYST    
+ATOM    205  HB2 ASP X  13      93.540  65.800  36.920  1.00  0.00      SYST    
+ATOM    206  CG  ASP X  13      94.150  66.080  38.990  1.00  0.00      SYST C  
+ATOM    207  OD1 ASP X  13      94.640  67.130  39.470  1.00  0.00      SYST O  
+ATOM    208  OD2 ASP X  13      93.420  65.330  39.700  1.00  0.00      SYST O  
+ATOM    209  C   ASP X  13      95.900  65.890  35.470  1.00  0.00      SYST C  
+ATOM    210  O   ASP X  13      96.920  65.180  35.390  1.00  0.00      SYST O  
+ATOM    211  N   ASP X  14      94.990  66.150  34.500  1.00  0.00      SYST N  
+ATOM    212  H   ASP X  14      94.450  66.940  34.820  1.00  0.00      SYST    
+ATOM    213  CA  ASP X  14      95.000  65.630  33.110  1.00  0.00      SYST C  
+ATOM    214  HA  ASP X  14      95.550  64.690  32.980  1.00  0.00      SYST    
+ATOM    215  CB  ASP X  14      93.590  65.200  32.750  1.00  0.00      SYST C  
+ATOM    216  HB1 ASP X  14      93.680  64.770  31.760  1.00  0.00      SYST    
+ATOM    217  HB2 ASP X  14      93.080  66.160  32.640  1.00  0.00      SYST    
+ATOM    218  CG  ASP X  14      92.830  64.280  33.790  1.00  0.00      SYST C  
+ATOM    219  OD1 ASP X  14      91.670  63.990  33.520  1.00  0.00      SYST O  
+ATOM    220  OD2 ASP X  14      93.350  63.910  34.880  1.00  0.00      SYST O  
+ATOM    221  C   ASP X  14      95.580  66.660  32.140  1.00  0.00      SYST C  
+ATOM    222  O   ASP X  14      96.310  66.260  31.200  1.00  0.00      SYST O  
+ATOM    223  N   LEU X  15      95.230  67.940  32.260  1.00  0.00      SYST N  
+ATOM    224  H   LEU X  15      94.520  68.200  32.920  1.00  0.00      SYST    
+ATOM    225  CA  LEU X  15      95.860  68.980  31.430  1.00  0.00      SYST C  
+ATOM    226  HA  LEU X  15      95.580  68.830  30.390  1.00  0.00      SYST    
+ATOM    227  CB  LEU X  15      95.260  70.350  31.840  1.00  0.00      SYST C  
+ATOM    228  HB1 LEU X  15      95.950  71.130  31.500  1.00  0.00      SYST    
+ATOM    229  HB2 LEU X  15      95.320  70.480  32.920  1.00  0.00      SYST    
+ATOM    230  CG  LEU X  15      93.800  70.660  31.340  1.00  0.00      SYST C  
+ATOM    231  HG  LEU X  15      93.120  69.860  31.640  1.00  0.00      SYST    
+ATOM    232  CD1 LEU X  15      93.210  71.980  31.800  1.00  0.00      SYST C  
+ATOM    233 HD11 LEU X  15      93.960  72.770  31.740  1.00  0.00      SYST    
+ATOM    234 HD12 LEU X  15      92.240  72.270  31.380  1.00  0.00      SYST    
+ATOM    235 HD13 LEU X  15      93.080  71.770  32.860  1.00  0.00      SYST    
+ATOM    236  CD2 LEU X  15      93.630  70.730  29.810  1.00  0.00      SYST C  
+ATOM    237 HD21 LEU X  15      94.360  71.410  29.370  1.00  0.00      SYST    
+ATOM    238 HD22 LEU X  15      93.990  69.780  29.400  1.00  0.00      SYST    
+ATOM    239 HD23 LEU X  15      92.570  70.880  29.600  1.00  0.00      SYST    
+ATOM    240  C   LEU X  15      97.430  69.030  31.520  1.00  0.00      SYST C  
+ATOM    241  O   LEU X  15      98.050  69.260  30.490  1.00  0.00      SYST O  
+ATOM    242  N   VAL X  16      98.030  68.850  32.700  1.00  0.00      SYST N  
+ATOM    243  H   VAL X  16      97.450  68.770  33.520  1.00  0.00      SYST    
+ATOM    244  CA  VAL X  16      99.510  69.030  32.920  1.00  0.00      SYST C  
+ATOM    245  HA  VAL X  16      99.970  68.960  31.930  1.00  0.00      SYST    
+ATOM    246  CB  VAL X  16      99.880  70.390  33.570  1.00  0.00      SYST C  
+ATOM    247  HB  VAL X  16      99.430  71.180  32.980  1.00  0.00      SYST    
+ATOM    248  CG1 VAL X  16      99.590  70.680  35.050  1.00  0.00      SYST C  
+ATOM    249 HG11 VAL X  16     100.160  69.990  35.670  1.00  0.00      SYST    
+ATOM    250 HG12 VAL X  16      99.840  71.730  35.230  1.00  0.00      SYST    
+ATOM    251 HG13 VAL X  16      98.550  70.560  35.370  1.00  0.00      SYST    
+ATOM    252  CG2 VAL X  16     101.410  70.550  33.450  1.00  0.00      SYST C  
+ATOM    253 HG21 VAL X  16     101.640  70.270  32.420  1.00  0.00      SYST    
+ATOM    254 HG22 VAL X  16     101.760  71.570  33.620  1.00  0.00      SYST    
+ATOM    255 HG23 VAL X  16     101.990  69.930  34.130  1.00  0.00      SYST    
+ATOM    256  C   VAL X  16     100.080  67.930  33.750  1.00  0.00      SYST C  
+ATOM    257  O   VAL X  16     101.130  67.370  33.440  1.00  0.00      SYST O  
+ATOM    258  N   GLY X  17      99.330  67.530  34.850  1.00  0.00      SYST N  
+ATOM    259  H   GLY X  17      98.480  68.000  35.130  1.00  0.00      SYST    
+ATOM    260  CA  GLY X  17      99.790  66.530  35.840  1.00  0.00      SYST C  
+ATOM    261  HA1 GLY X  17     100.840  66.510  36.140  1.00  0.00      SYST    
+ATOM    262  HA2 GLY X  17      99.460  65.560  35.470  1.00  0.00      SYST    
+ATOM    263  C   GLY X  17      99.190  66.730  37.130  1.00  0.00      SYST C  
+ATOM    264  O   GLY X  17      98.890  67.850  37.500  1.00  0.00      SYST O  
+ATOM    265  N   PRO X  18      99.050  65.700  38.010  1.00  0.00      SYST N  
+ATOM    266  CD  PRO X  18      99.170  64.330  37.660  1.00  0.00      SYST C  
+ATOM    267  HD1 PRO X  18     100.080  63.860  38.040  1.00  0.00      SYST    
+ATOM    268  HD2 PRO X  18      99.110  64.080  36.600  1.00  0.00      SYST    
+ATOM    269  CG  PRO X  18      98.050  63.580  38.480  1.00  0.00      SYST C  
+ATOM    270  HG1 PRO X  18      98.240  62.530  38.670  1.00  0.00      SYST    
+ATOM    271  HG2 PRO X  18      97.030  63.720  38.130  1.00  0.00      SYST    
+ATOM    272  CB  PRO X  18      98.190  64.370  39.800  1.00  0.00      SYST C  
+ATOM    273  HB1 PRO X  18      99.080  64.030  40.330  1.00  0.00      SYST    
+ATOM    274  HB2 PRO X  18      97.240  64.290  40.330  1.00  0.00      SYST    
+ATOM    275  CA  PRO X  18      98.450  65.810  39.350  1.00  0.00      SYST C  
+ATOM    276  HA  PRO X  18      97.520  66.370  39.330  1.00  0.00      SYST    
+ATOM    277  C   PRO X  18      99.330  66.670  40.330  1.00  0.00      SYST C  
+ATOM    278  O   PRO X  18     100.530  66.770  40.120  1.00  0.00      SYST O  
+ATOM    279  N   PRO X  19      98.750  67.110  41.380  1.00  0.00      SYST N  
+ATOM    280  CD  PRO X  19      97.390  66.930  41.830  1.00  0.00      SYST C  
+ATOM    281  HD1 PRO X  19      96.970  65.940  41.650  1.00  0.00      SYST    
+ATOM    282  HD2 PRO X  19      96.760  67.610  41.270  1.00  0.00      SYST    
+ATOM    283  CG  PRO X  19      97.300  67.340  43.310  1.00  0.00      SYST C  
+ATOM    284  HG1 PRO X  19      97.740  66.510  43.860  1.00  0.00      SYST    
+ATOM    285  HG2 PRO X  19      96.280  67.520  43.660  1.00  0.00      SYST    
+ATOM    286  CB  PRO X  19      98.210  68.600  43.310  1.00  0.00      SYST C  
+ATOM    287  HB1 PRO X  19      98.590  68.740  44.330  1.00  0.00      SYST    
+ATOM    288  HB2 PRO X  19      97.630  69.420  42.880  1.00  0.00      SYST    
+ATOM    289  CA  PRO X  19      99.350  68.110  42.320  1.00  0.00      SYST C  
+ATOM    290  HA  PRO X  19      99.690  68.960  41.740  1.00  0.00      SYST    
+ATOM    291  C   PRO X  19     100.560  67.450  42.990  1.00  0.00      SYST C  
+ATOM    292  O   PRO X  19     100.460  66.370  43.570  1.00  0.00      SYST O  
+ATOM    293  N   SER X  20     101.690  68.150  42.990  1.00  0.00      SYST N  
+ATOM    294  H   SER X  20     101.640  69.110  42.700  1.00  0.00      SYST    
+ATOM    295  CA  SER X  20     103.060  67.630  43.440  1.00  0.00      SYST C  
+ATOM    296  HA  SER X  20     103.290  66.640  43.050  1.00  0.00      SYST    
+ATOM    297  CB  SER X  20     104.260  68.390  42.880  1.00  0.00      SYST C  
+ATOM    298  HB1 SER X  20     105.110  67.740  43.080  1.00  0.00      SYST    
+ATOM    299  HB2 SER X  20     104.470  69.370  43.310  1.00  0.00      SYST    
+ATOM    300  OG  SER X  20     104.100  68.510  41.460  1.00  0.00      SYST O  
+ATOM    301  HG  SER X  20     103.750  69.390  41.340  1.00  0.00      SYST    
+ATOM    302  C   SER X  20     103.070  67.570  45.000  1.00  0.00      SYST C  
+ATOM    303  O   SER X  20     102.990  68.570  45.770  1.00  0.00      SYST O  
+ATOM    304  N   ASN X  21     103.160  66.330  45.520  1.00  0.00      SYST N  
+ATOM    305  H   ASN X  21     103.230  65.490  44.970  1.00  0.00      SYST    
+ATOM    306  CA  ASN X  21     103.060  66.090  47.010  1.00  0.00      SYST C  
+ATOM    307  HA  ASN X  21     102.200  66.610  47.430  1.00  0.00      SYST    
+ATOM    308  CB  ASN X  21     102.750  64.640  47.250  1.00  0.00      SYST C  
+ATOM    309  HB1 ASN X  21     103.460  64.020  46.700  1.00  0.00      SYST    
+ATOM    310  HB2 ASN X  21     101.740  64.460  46.880  1.00  0.00      SYST    
+ATOM    311  CG  ASN X  21     102.580  64.280  48.720  1.00  0.00      SYST C  
+ATOM    312  OD1 ASN X  21     102.030  65.070  49.480  1.00  0.00      SYST O  
+ATOM    313  ND2 ASN X  21     103.070  63.140  49.150  1.00  0.00      SYST N  
+ATOM    314 HD21 ASN X  21     103.470  62.500  48.480  1.00  0.00      SYST    
+ATOM    315 HD22 ASN X  21     102.680  62.820  50.030  1.00  0.00      SYST    
+ATOM    316  C   ASN X  21     104.210  66.540  47.820  1.00  0.00      SYST C  
+ATOM    317  O   ASN X  21     105.320  66.040  47.650  1.00  0.00      SYST O  
+ATOM    318  N   LEU X  22     103.960  67.430  48.800  1.00  0.00      SYST N  
+ATOM    319  H   LEU X  22     103.030  67.810  48.940  1.00  0.00      SYST    
+ATOM    320  CA  LEU X  22     104.850  67.900  49.820  1.00  0.00      SYST C  
+ATOM    321  HA  LEU X  22     105.490  67.060  50.100  1.00  0.00      SYST    
+ATOM    322  CB  LEU X  22     105.770  69.030  49.380  1.00  0.00      SYST C  
+ATOM    323  HB1 LEU X  22     106.410  68.590  48.610  1.00  0.00      SYST    
+ATOM    324  HB2 LEU X  22     106.430  69.260  50.220  1.00  0.00      SYST    
+ATOM    325  CG  LEU X  22     105.180  70.290  48.760  1.00  0.00      SYST C  
+ATOM    326  HG  LEU X  22     104.230  70.010  48.290  1.00  0.00      SYST    
+ATOM    327  CD1 LEU X  22     104.800  71.360  49.780  1.00  0.00      SYST C  
+ATOM    328 HD11 LEU X  22     104.200  72.140  49.300  1.00  0.00      SYST    
+ATOM    329 HD12 LEU X  22     104.080  70.970  50.500  1.00  0.00      SYST    
+ATOM    330 HD13 LEU X  22     105.680  71.650  50.350  1.00  0.00      SYST    
+ATOM    331  CD2 LEU X  22     106.070  70.980  47.730  1.00  0.00      SYST C  
+ATOM    332 HD21 LEU X  22     106.960  71.220  48.320  1.00  0.00      SYST    
+ATOM    333 HD22 LEU X  22     106.160  70.240  46.950  1.00  0.00      SYST    
+ATOM    334 HD23 LEU X  22     105.550  71.820  47.280  1.00  0.00      SYST    
+ATOM    335  C   LEU X  22     104.130  68.270  51.170  1.00  0.00      SYST C  
+ATOM    336  O   LEU X  22     102.950  68.660  51.180  1.00  0.00      SYST O  
+ATOM    337  N   GLU X  23     104.760  68.140  52.280  1.00  0.00      SYST N  
+ATOM    338  H   GLU X  23     105.670  67.700  52.350  1.00  0.00      SYST    
+ATOM    339  CA  GLU X  23     104.120  68.450  53.620  1.00  0.00      SYST C  
+ATOM    340  HA  GLU X  23     103.130  67.980  53.550  1.00  0.00      SYST    
+ATOM    341  CB  GLU X  23     104.920  67.820  54.750  1.00  0.00      SYST C  
+ATOM    342  HB1 GLU X  23     104.550  68.210  55.700  1.00  0.00      SYST    
+ATOM    343  HB2 GLU X  23     105.980  68.080  54.710  1.00  0.00      SYST    
+ATOM    344  CG  GLU X  23     104.770  66.300  54.750  1.00  0.00      SYST C  
+ATOM    345  HG1 GLU X  23     105.170  65.940  53.800  1.00  0.00      SYST    
+ATOM    346  HG2 GLU X  23     103.730  66.000  54.820  1.00  0.00      SYST    
+ATOM    347  CD  GLU X  23     105.540  65.650  55.850  1.00  0.00      SYST C  
+ATOM    348  OE1 GLU X  23     105.160  64.540  56.330  1.00  0.00      SYST O  
+ATOM    349  OE2 GLU X  23     106.620  66.230  56.210  1.00  0.00      SYST O  
+ATOM    350  C   GLU X  23     103.920  69.960  53.820  1.00  0.00      SYST C  
+ATOM    351  O   GLU X  23     104.620  70.860  53.320  1.00  0.00      SYST O  
+ATOM    352  N   GLY X  24     102.910  70.260  54.650  1.00  0.00      SYST N  
+ATOM    353  H   GLY X  24     102.520  69.550  55.250  1.00  0.00      SYST    
+ATOM    354  CA  GLY X  24     102.630  71.560  55.110  1.00  0.00      SYST C  
+ATOM    355  HA1 GLY X  24     103.620  71.960  55.330  1.00  0.00      SYST    
+ATOM    356  HA2 GLY X  24     102.030  71.470  56.010  1.00  0.00      SYST    
+ATOM    357  C   GLY X  24     101.910  72.510  54.140  1.00  0.00      SYST C  
+ATOM    358  O   GLY X  24     101.530  73.580  54.590  1.00  0.00      SYST O  
+ATOM    359  N   GLN X  25     101.720  72.210  52.870  1.00  0.00      SYST N  
+ATOM    360  H   GLN X  25     102.350  71.490  52.540  1.00  0.00      SYST    
+ATOM    361  CA  GLN X  25     100.880  72.950  51.920  1.00  0.00      SYST C  
+ATOM    362  HA  GLN X  25     100.890  74.010  52.170  1.00  0.00      SYST    
+ATOM    363  CB  GLN X  25     101.350  72.770  50.480  1.00  0.00      SYST C  
+ATOM    364  HB1 GLN X  25     102.400  73.040  50.390  1.00  0.00      SYST    
+ATOM    365  HB2 GLN X  25     100.730  73.510  49.980  1.00  0.00      SYST    
+ATOM    366  CG  GLN X  25     101.090  71.290  49.940  1.00  0.00      SYST C  
+ATOM    367  HG1 GLN X  25     100.050  71.010  49.810  1.00  0.00      SYST    
+ATOM    368  HG2 GLN X  25     101.630  70.720  50.690  1.00  0.00      SYST    
+ATOM    369  CD  GLN X  25     101.610  71.010  48.530  1.00  0.00      SYST C  
+ATOM    370  OE1 GLN X  25     101.930  71.910  47.810  1.00  0.00      SYST O  
+ATOM    371  NE2 GLN X  25     101.780  69.760  48.150  1.00  0.00      SYST N  
+ATOM    372 HE21 GLN X  25     101.510  69.030  48.790  1.00  0.00      SYST    
+ATOM    373 HE22 GLN X  25     101.900  69.530  47.170  1.00  0.00      SYST    
+ATOM    374  C   GLN X  25      99.370  72.510  52.010  1.00  0.00      SYST C  
+ATOM    375  O   GLN X  25      99.020  71.360  52.260  1.00  0.00      SYST O  
+ATOM    376  N   SER X  26      98.520  73.470  51.890  1.00  0.00      SYST N  
+ATOM    377  H   SER X  26      98.910  74.400  51.790  1.00  0.00      SYST    
+ATOM    378  CA  SER X  26      97.000  73.250  51.770  1.00  0.00      SYST C  
+ATOM    379  HA  SER X  26      96.790  72.530  52.560  1.00  0.00      SYST    
+ATOM    380  CB  SER X  26      96.320  74.520  52.080  1.00  0.00      SYST C  
+ATOM    381  HB1 SER X  26      96.560  74.970  53.040  1.00  0.00      SYST    
+ATOM    382  HB2 SER X  26      95.250  74.320  52.160  1.00  0.00      SYST    
+ATOM    383  OG  SER X  26      96.550  75.440  51.060  1.00  0.00      SYST O  
+ATOM    384  HG  SER X  26      96.220  76.290  51.370  1.00  0.00      SYST    
+ATOM    385  C   SER X  26      96.580  72.750  50.400  1.00  0.00      SYST C  
+ATOM    386  O   SER X  26      97.370  72.950  49.480  1.00  0.00      SYST O  
+ATOM    387  N   ASP X  27      95.430  72.080  50.210  1.00  0.00      SYST N  
+ATOM    388  H   ASP X  27      94.850  71.990  51.030  1.00  0.00      SYST    
+ATOM    389  CA  ASP X  27      94.940  71.520  48.940  1.00  0.00      SYST C  
+ATOM    390  HA  ASP X  27      95.640  70.840  48.450  1.00  0.00      SYST    
+ATOM    391  CB  ASP X  27      93.620  70.690  49.090  1.00  0.00      SYST C  
+ATOM    392  HB1 ASP X  27      93.760  69.740  49.610  1.00  0.00      SYST    
+ATOM    393  HB2 ASP X  27      93.270  70.480  48.080  1.00  0.00      SYST    
+ATOM    394  CG  ASP X  27      92.550  71.430  49.870  1.00  0.00      SYST C  
+ATOM    395  OD1 ASP X  27      92.690  72.640  50.220  1.00  0.00      SYST O  
+ATOM    396  OD2 ASP X  27      91.520  70.840  50.130  1.00  0.00      SYST O  
+ATOM    397  C   ASP X  27      94.820  72.640  47.860  1.00  0.00      SYST C  
+ATOM    398  O   ASP X  27      95.100  72.350  46.680  1.00  0.00      SYST O  
+ATOM    399  N   GLU X  28      94.410  73.860  48.260  1.00  0.00      SYST N  
+ATOM    400  H   GLU X  28      94.120  73.910  49.220  1.00  0.00      SYST    
+ATOM    401  CA  GLU X  28      94.200  75.110  47.530  1.00  0.00      SYST C  
+ATOM    402  HA  GLU X  28      93.580  74.960  46.640  1.00  0.00      SYST    
+ATOM    403  CB  GLU X  28      93.520  76.170  48.430  1.00  0.00      SYST C  
+ATOM    404  HB1 GLU X  28      94.080  76.330  49.360  1.00  0.00      SYST    
+ATOM    405  HB2 GLU X  28      92.530  75.860  48.740  1.00  0.00      SYST    
+ATOM    406  CG  GLU X  28      93.300  77.560  47.770  1.00  0.00      SYST C  
+ATOM    407  HG1 GLU X  28      92.900  77.420  46.770  1.00  0.00      SYST    
+ATOM    408  HG2 GLU X  28      94.300  77.990  47.790  1.00  0.00      SYST    
+ATOM    409  CD  GLU X  28      92.250  78.450  48.440  1.00  0.00      SYST C  
+ATOM    410  OE1 GLU X  28      91.540  78.050  49.390  1.00  0.00      SYST O  
+ATOM    411  OE2 GLU X  28      92.190  79.640  48.130  1.00  0.00      SYST O  
+ATOM    412  C   GLU X  28      95.590  75.690  47.110  1.00  0.00      SYST C  
+ATOM    413  O   GLU X  28      95.890  75.920  45.940  1.00  0.00      SYST O  
+ATOM    414  N   ARG X  29      96.600  75.860  48.030  1.00  0.00      SYST N  
+ATOM    415  H   ARG X  29      96.390  75.530  48.960  1.00  0.00      SYST    
+ATOM    416  CA  ARG X  29      98.050  76.130  47.720  1.00  0.00      SYST C  
+ATOM    417  HA  ARG X  29      98.190  77.150  47.360  1.00  0.00      SYST    
+ATOM    418  CB  ARG X  29      98.800  76.010  49.070  1.00  0.00      SYST C  
+ATOM    419  HB1 ARG X  29      98.750  75.000  49.480  1.00  0.00      SYST    
+ATOM    420  HB2 ARG X  29      98.320  76.670  49.790  1.00  0.00      SYST    
+ATOM    421  CG  ARG X  29     100.240  76.460  49.040  1.00  0.00      SYST C  
+ATOM    422  HG1 ARG X  29     100.820  75.750  48.460  1.00  0.00      SYST    
+ATOM    423  HG2 ARG X  29     100.590  76.340  50.070  1.00  0.00      SYST    
+ATOM    424  CD  ARG X  29     100.710  77.890  48.640  1.00  0.00      SYST C  
+ATOM    425  HD1 ARG X  29     101.770  77.900  48.910  1.00  0.00      SYST    
+ATOM    426  HD2 ARG X  29     100.180  78.660  49.190  1.00  0.00      SYST    
+ATOM    427  NE  ARG X  29     100.540  78.110  47.090  1.00  0.00      SYST N  
+ATOM    428  HE  ARG X  29     100.680  77.400  46.390  1.00  0.00      SYST    
+ATOM    429  CZ  ARG X  29     100.610  79.310  46.520  1.00  0.00      SYST C  
+ATOM    430  NH1 ARG X  29     100.570  80.340  47.240  1.00  0.00      SYST N  
+ATOM    431 HH11 ARG X  29     100.890  80.180  48.180  1.00  0.00      SYST    
+ATOM    432 HH12 ARG X  29     100.780  81.170  46.700  1.00  0.00      SYST    
+ATOM    433  NH2 ARG X  29     100.490  79.420  45.300  1.00  0.00      SYST N  
+ATOM    434 HH21 ARG X  29     100.480  78.600  44.710  1.00  0.00      SYST    
+ATOM    435 HH22 ARG X  29     100.520  80.360  44.910  1.00  0.00      SYST    
+ATOM    436  C   ARG X  29      98.580  75.120  46.730  1.00  0.00      SYST C  
+ATOM    437  O   ARG X  29      99.010  75.510  45.700  1.00  0.00      SYST O  
+ATOM    438  N   ALA X  30      98.450  73.790  46.960  1.00  0.00      SYST N  
+ATOM    439  H   ALA X  30      98.060  73.510  47.850  1.00  0.00      SYST    
+ATOM    440  CA  ALA X  30      98.750  72.760  45.940  1.00  0.00      SYST C  
+ATOM    441  HA  ALA X  30      99.820  72.750  45.690  1.00  0.00      SYST    
+ATOM    442  CB  ALA X  30      98.420  71.340  46.490  1.00  0.00      SYST C  
+ATOM    443  HB1 ALA X  30      98.670  70.600  45.730  1.00  0.00      SYST    
+ATOM    444  HB2 ALA X  30      99.130  71.110  47.280  1.00  0.00      SYST    
+ATOM    445  HB3 ALA X  30      97.360  71.410  46.750  1.00  0.00      SYST    
+ATOM    446  C   ALA X  30      98.220  73.000  44.530  1.00  0.00      SYST C  
+ATOM    447  O   ALA X  30      98.970  72.800  43.610  1.00  0.00      SYST O  
+ATOM    448  N   LEU X  31      96.890  73.210  44.420  1.00  0.00      SYST N  
+ATOM    449  H   LEU X  31      96.330  73.050  45.240  1.00  0.00      SYST    
+ATOM    450  CA  LEU X  31      96.140  73.480  43.140  1.00  0.00      SYST C  
+ATOM    451  HA  LEU X  31      96.300  72.610  42.510  1.00  0.00      SYST    
+ATOM    452  CB  LEU X  31      94.730  73.730  43.420  1.00  0.00      SYST C  
+ATOM    453  HB1 LEU X  31      94.670  74.580  44.100  1.00  0.00      SYST    
+ATOM    454  HB2 LEU X  31      94.340  72.880  43.980  1.00  0.00      SYST    
+ATOM    455  CG  LEU X  31      93.840  73.980  42.210  1.00  0.00      SYST C  
+ATOM    456  HG  LEU X  31      94.170  73.580  41.250  1.00  0.00      SYST    
+ATOM    457  CD1 LEU X  31      92.440  73.400  42.380  1.00  0.00      SYST C  
+ATOM    458 HD11 LEU X  31      92.140  73.640  43.400  1.00  0.00      SYST    
+ATOM    459 HD12 LEU X  31      91.780  73.990  41.750  1.00  0.00      SYST    
+ATOM    460 HD13 LEU X  31      92.380  72.320  42.260  1.00  0.00      SYST    
+ATOM    461  CD2 LEU X  31      93.690  75.490  41.890  1.00  0.00      SYST C  
+ATOM    462 HD21 LEU X  31      94.630  75.920  41.540  1.00  0.00      SYST    
+ATOM    463 HD22 LEU X  31      92.920  75.610  41.130  1.00  0.00      SYST    
+ATOM    464 HD23 LEU X  31      93.370  75.980  42.800  1.00  0.00      SYST    
+ATOM    465  C   LEU X  31      96.700  74.710  42.380  1.00  0.00      SYST C  
+ATOM    466  O   LEU X  31      96.810  74.890  41.150  1.00  0.00      SYST O  
+ATOM    467  N   LEU X  32      97.040  75.730  43.200  1.00  0.00      SYST N  
+ATOM    468  H   LEU X  32      96.880  75.510  44.180  1.00  0.00      SYST    
+ATOM    469  CA  LEU X  32      97.300  77.080  42.760  1.00  0.00      SYST C  
+ATOM    470  HA  LEU X  32      96.550  77.230  42.000  1.00  0.00      SYST    
+ATOM    471  CB  LEU X  32      97.190  78.050  43.910  1.00  0.00      SYST C  
+ATOM    472  HB1 LEU X  32      97.980  77.770  44.610  1.00  0.00      SYST    
+ATOM    473  HB2 LEU X  32      96.180  77.950  44.310  1.00  0.00      SYST    
+ATOM    474  CG  LEU X  32      97.420  79.560  43.650  1.00  0.00      SYST C  
+ATOM    475  HG  LEU X  32      98.490  79.680  43.480  1.00  0.00      SYST    
+ATOM    476  CD1 LEU X  32      96.670  80.170  42.470  1.00  0.00      SYST C  
+ATOM    477 HD11 LEU X  32      97.260  81.040  42.180  1.00  0.00      SYST    
+ATOM    478 HD12 LEU X  32      96.730  79.430  41.670  1.00  0.00      SYST    
+ATOM    479 HD13 LEU X  32      95.610  80.180  42.720  1.00  0.00      SYST    
+ATOM    480  CD2 LEU X  32      96.990  80.350  44.880  1.00  0.00      SYST C  
+ATOM    481 HD21 LEU X  32      97.580  80.040  45.730  1.00  0.00      SYST    
+ATOM    482 HD22 LEU X  32      97.120  81.420  44.720  1.00  0.00      SYST    
+ATOM    483 HD23 LEU X  32      95.940  80.230  45.140  1.00  0.00      SYST    
+ATOM    484  C   LEU X  32      98.740  77.020  42.220  1.00  0.00      SYST C  
+ATOM    485  O   LEU X  32      98.990  77.730  41.350  1.00  0.00      SYST O  
+ATOM    486  N   ASP X  33      99.610  76.140  42.750  1.00  0.00      SYST N  
+ATOM    487  H   ASP X  33      99.350  75.760  43.650  1.00  0.00      SYST    
+ATOM    488  CA  ASP X  33     100.900  75.690  42.130  1.00  0.00      SYST C  
+ATOM    489  HA  ASP X  33     101.410  76.570  41.750  1.00  0.00      SYST    
+ATOM    490  CB  ASP X  33     101.800  75.100  43.230  1.00  0.00      SYST C  
+ATOM    491  HB1 ASP X  33     102.800  74.850  42.860  1.00  0.00      SYST    
+ATOM    492  HB2 ASP X  33     101.410  74.120  43.510  1.00  0.00      SYST    
+ATOM    493  CG  ASP X  33     102.110  75.980  44.480  1.00  0.00      SYST C  
+ATOM    494  OD1 ASP X  33     101.650  77.110  44.540  1.00  0.00      SYST O  
+ATOM    495  OD2 ASP X  33     102.790  75.490  45.420  1.00  0.00      SYST O  
+ATOM    496  C   ASP X  33     100.760  74.780  40.930  1.00  0.00      SYST C  
+ATOM    497  O   ASP X  33     101.440  75.010  39.920  1.00  0.00      SYST O  
+ATOM    498  N   GLN X  34      99.910  73.770  41.000  1.00  0.00      SYST N  
+ATOM    499  H   GLN X  34      99.480  73.520  41.880  1.00  0.00      SYST    
+ATOM    500  CA  GLN X  34      99.610  73.030  39.740  1.00  0.00      SYST C  
+ATOM    501  HA  GLN X  34     100.430  72.330  39.550  1.00  0.00      SYST    
+ATOM    502  CB  GLN X  34      98.400  72.180  40.190  1.00  0.00      SYST C  
+ATOM    503  HB1 GLN X  34      97.470  72.730  40.140  1.00  0.00      SYST    
+ATOM    504  HB2 GLN X  34      98.490  71.890  41.230  1.00  0.00      SYST    
+ATOM    505  CG  GLN X  34      98.230  70.930  39.330  1.00  0.00      SYST C  
+ATOM    506  HG1 GLN X  34      99.120  70.340  39.520  1.00  0.00      SYST    
+ATOM    507  HG2 GLN X  34      98.240  71.150  38.260  1.00  0.00      SYST    
+ATOM    508  CD  GLN X  34      96.940  70.140  39.650  1.00  0.00      SYST C  
+ATOM    509  OE1 GLN X  34      96.190  70.450  40.600  1.00  0.00      SYST O  
+ATOM    510  NE2 GLN X  34      96.720  69.020  39.030  1.00  0.00      SYST N  
+ATOM    511 HE21 GLN X  34      97.330  68.690  38.300  1.00  0.00      SYST    
+ATOM    512 HE22 GLN X  34      95.910  68.430  39.200  1.00  0.00      SYST    
+ATOM    513  C   GLN X  34      99.150  73.920  38.620  1.00  0.00      SYST C  
+ATOM    514  O   GLN X  34      99.600  73.690  37.490  1.00  0.00      SYST O  
+ATOM    515  N   LEU X  35      98.340  75.000  38.850  1.00  0.00      SYST N  
+ATOM    516  H   LEU X  35      97.980  74.980  39.790  1.00  0.00      SYST    
+ATOM    517  CA  LEU X  35      97.930  76.060  37.880  1.00  0.00      SYST C  
+ATOM    518  HA  LEU X  35      97.380  75.530  37.110  1.00  0.00      SYST    
+ATOM    519  CB  LEU X  35      96.960  77.000  38.600  1.00  0.00      SYST C  
+ATOM    520  HB1 LEU X  35      97.390  77.610  39.400  1.00  0.00      SYST    
+ATOM    521  HB2 LEU X  35      96.180  76.510  39.180  1.00  0.00      SYST    
+ATOM    522  CG  LEU X  35      96.210  77.960  37.690  1.00  0.00      SYST C  
+ATOM    523  HG  LEU X  35      96.920  78.520  37.080  1.00  0.00      SYST    
+ATOM    524  CD1 LEU X  35      95.320  77.280  36.600  1.00  0.00      SYST C  
+ATOM    525 HD11 LEU X  35      94.750  77.990  36.020  1.00  0.00      SYST    
+ATOM    526 HD12 LEU X  35      95.880  76.600  35.960  1.00  0.00      SYST    
+ATOM    527 HD13 LEU X  35      94.640  76.700  37.230  1.00  0.00      SYST    
+ATOM    528  CD2 LEU X  35      95.300  78.900  38.390  1.00  0.00      SYST C  
+ATOM    529 HD21 LEU X  35      94.420  78.360  38.730  1.00  0.00      SYST    
+ATOM    530 HD22 LEU X  35      95.760  79.370  39.250  1.00  0.00      SYST    
+ATOM    531 HD23 LEU X  35      94.910  79.660  37.720  1.00  0.00      SYST    
+ATOM    532  C   LEU X  35      99.170  76.860  37.450  1.00  0.00      SYST C  
+ATOM    533  O   LEU X  35      99.290  77.080  36.240  1.00  0.00      SYST O  
+ATOM    534  N   HIS X  36     100.110  77.150  38.360  1.00  0.00      SYST N  
+ATOM    535  H   HIS X  36      99.850  77.010  39.330  1.00  0.00      SYST    
+ATOM    536  CA  HIS X  36     101.340  77.930  38.040  1.00  0.00      SYST C  
+ATOM    537  HA  HIS X  36     101.020  78.840  37.530  1.00  0.00      SYST    
+ATOM    538  CB  HIS X  36     102.050  78.240  39.360  1.00  0.00      SYST C  
+ATOM    539  HB1 HIS X  36     102.460  77.320  39.790  1.00  0.00      SYST    
+ATOM    540  HB2 HIS X  36     101.350  78.680  40.060  1.00  0.00      SYST    
+ATOM    541  CG  HIS X  36     103.360  79.080  39.240  1.00  0.00      SYST C  
+ATOM    542  ND1 HIS X  36     103.410  80.490  39.530  1.00  0.00      SYST N  
+ATOM    543  CE1 HIS X  36     104.630  80.820  39.160  1.00  0.00      SYST C  
+ATOM    544  HE1 HIS X  36     105.000  81.830  39.090  1.00  0.00      SYST    
+ATOM    545  NE2 HIS X  36     105.310  79.770  38.640  1.00  0.00      SYST N  
+ATOM    546  HE2 HIS X  36     106.220  79.850  38.220  1.00  0.00      SYST    
+ATOM    547  CD2 HIS X  36     104.550  78.640  38.760  1.00  0.00      SYST C  
+ATOM    548  HD2 HIS X  36     104.800  77.600  38.580  1.00  0.00      SYST    
+ATOM    549  C   HIS X  36     102.290  77.140  37.120  1.00  0.00      SYST C  
+ATOM    550  O   HIS X  36     102.920  77.730  36.260  1.00  0.00      SYST O  
+ATOM    551  N   THR X  37     102.370  75.840  37.260  1.00  0.00      SYST N  
+ATOM    552  H   THR X  37     101.730  75.420  37.920  1.00  0.00      SYST    
+ATOM    553  CA  THR X  37     103.020  74.900  36.360  1.00  0.00      SYST C  
+ATOM    554  HA  THR X  37     104.040  75.270  36.290  1.00  0.00      SYST    
+ATOM    555  CB  THR X  37     103.010  73.480  37.030  1.00  0.00      SYST C  
+ATOM    556  HB  THR X  37     101.980  73.180  37.180  1.00  0.00      SYST    
+ATOM    557  CG2 THR X  37     103.690  72.400  36.170  1.00  0.00      SYST C  
+ATOM    558 HG21 THR X  37     102.910  72.190  35.430  1.00  0.00      SYST    
+ATOM    559 HG22 THR X  37     104.520  72.910  35.680  1.00  0.00      SYST    
+ATOM    560 HG23 THR X  37     103.910  71.550  36.820  1.00  0.00      SYST    
+ATOM    561  OG1 THR X  37     103.540  73.550  38.390  1.00  0.00      SYST O  
+ATOM    562  HG1 THR X  37     103.180  74.310  38.860  1.00  0.00      SYST    
+ATOM    563  C   THR X  37     102.410  74.880  34.990  1.00  0.00      SYST C  
+ATOM    564  O   THR X  37     103.170  75.080  34.020  1.00  0.00      SYST O  
+ATOM    565  N   LEU X  38     101.140  74.760  34.860  1.00  0.00      SYST N  
+ATOM    566  H   LEU X  38     100.530  74.470  35.620  1.00  0.00      SYST    
+ATOM    567  CA  LEU X  38     100.450  74.900  33.570  1.00  0.00      SYST C  
+ATOM    568  HA  LEU X  38     100.810  74.120  32.900  1.00  0.00      SYST    
+ATOM    569  CB  LEU X  38      98.930  74.700  33.780  1.00  0.00      SYST C  
+ATOM    570  HB1 LEU X  38      98.580  75.460  34.490  1.00  0.00      SYST    
+ATOM    571  HB2 LEU X  38      98.840  73.730  34.260  1.00  0.00      SYST    
+ATOM    572  CG  LEU X  38      98.220  74.730  32.440  1.00  0.00      SYST C  
+ATOM    573  HG  LEU X  38      99.010  74.500  31.720  1.00  0.00      SYST    
+ATOM    574  CD1 LEU X  38      97.050  73.730  32.430  1.00  0.00      SYST C  
+ATOM    575 HD11 LEU X  38      96.210  74.180  32.960  1.00  0.00      SYST    
+ATOM    576 HD12 LEU X  38      96.710  73.570  31.400  1.00  0.00      SYST    
+ATOM    577 HD13 LEU X  38      97.370  72.720  32.700  1.00  0.00      SYST    
+ATOM    578  CD2 LEU X  38      97.650  76.070  32.040  1.00  0.00      SYST C  
+ATOM    579 HD21 LEU X  38      97.030  75.900  31.170  1.00  0.00      SYST    
+ATOM    580 HD22 LEU X  38      96.990  76.440  32.830  1.00  0.00      SYST    
+ATOM    581 HD23 LEU X  38      98.420  76.800  31.770  1.00  0.00      SYST    
+ATOM    582  C   LEU X  38     100.860  76.280  33.000  1.00  0.00      SYST C  
+ATOM    583  O   LEU X  38     101.300  76.290  31.850  1.00  0.00      SYST O  
+ATOM    584  N   LEU X  39     100.700  77.340  33.790  1.00  0.00      SYST N  
+ATOM    585  H   LEU X  39     100.320  77.120  34.700  1.00  0.00      SYST    
+ATOM    586  CA  LEU X  39     100.980  78.630  33.300  1.00  0.00      SYST C  
+ATOM    587  HA  LEU X  39     100.380  78.710  32.390  1.00  0.00      SYST    
+ATOM    588  CB  LEU X  39     100.430  79.670  34.350  1.00  0.00      SYST C  
+ATOM    589  HB1 LEU X  39     100.720  80.690  34.070  1.00  0.00      SYST    
+ATOM    590  HB2 LEU X  39     100.830  79.500  35.340  1.00  0.00      SYST    
+ATOM    591  CG  LEU X  39      98.860  79.800  34.510  1.00  0.00      SYST C  
+ATOM    592  HG  LEU X  39      98.490  78.790  34.550  1.00  0.00      SYST    
+ATOM    593  CD1 LEU X  39      98.490  80.520  35.830  1.00  0.00      SYST C  
+ATOM    594 HD11 LEU X  39      98.850  81.550  35.770  1.00  0.00      SYST    
+ATOM    595 HD12 LEU X  39      97.410  80.450  35.880  1.00  0.00      SYST    
+ATOM    596 HD13 LEU X  39      98.990  80.070  36.690  1.00  0.00      SYST    
+ATOM    597  CD2 LEU X  39      98.160  80.520  33.420  1.00  0.00      SYST C  
+ATOM    598 HD21 LEU X  39      98.570  81.530  33.440  1.00  0.00      SYST    
+ATOM    599 HD22 LEU X  39      98.370  79.980  32.500  1.00  0.00      SYST    
+ATOM    600 HD23 LEU X  39      97.100  80.450  33.630  1.00  0.00      SYST    
+ATOM    601  C   LEU X  39     102.460  78.950  32.940  1.00  0.00      SYST C  
+ATOM    602  O   LEU X  39     102.730  80.030  32.490  1.00  0.00      SYST O  
+ATOM    603  N   SER X  40     103.380  78.000  33.170  1.00  0.00      SYST N  
+ATOM    604  H   SER X  40     102.990  77.100  33.390  1.00  0.00      SYST    
+ATOM    605  CA  SER X  40     104.780  78.140  32.610  1.00  0.00      SYST C  
+ATOM    606  HA  SER X  40     105.240  79.080  32.920  1.00  0.00      SYST    
+ATOM    607  CB  SER X  40     105.570  76.960  33.160  1.00  0.00      SYST C  
+ATOM    608  HB1 SER X  40     105.490  76.980  34.250  1.00  0.00      SYST    
+ATOM    609  HB2 SER X  40     106.620  77.210  32.990  1.00  0.00      SYST    
+ATOM    610  OG  SER X  40     105.240  75.670  32.600  1.00  0.00      SYST O  
+ATOM    611  HG  SER X  40     104.480  75.370  33.110  1.00  0.00      SYST    
+ATOM    612  C   SER X  40     104.840  77.990  31.030  1.00  0.00      SYST C  
+ATOM    613  O   SER X  40     105.690  78.620  30.390  1.00  0.00      SYST O  
+ATOM    614  N   ASN X  41     103.930  77.210  30.410  1.00  0.00      SYST N  
+ATOM    615  H   ASN X  41     103.150  76.870  30.950  1.00  0.00      SYST    
+ATOM    616  CA  ASN X  41     104.000  76.760  28.970  1.00  0.00      SYST C  
+ATOM    617  HA  ASN X  41     105.050  76.480  28.880  1.00  0.00      SYST    
+ATOM    618  CB  ASN X  41     103.210  75.420  28.790  1.00  0.00      SYST C  
+ATOM    619  HB1 ASN X  41     103.140  74.910  29.760  1.00  0.00      SYST    
+ATOM    620  HB2 ASN X  41     103.740  74.820  28.060  1.00  0.00      SYST    
+ATOM    621  CG  ASN X  41     101.840  75.610  28.220  1.00  0.00      SYST C  
+ATOM    622  OD1 ASN X  41     101.600  75.620  26.990  1.00  0.00      SYST O  
+ATOM    623  ND2 ASN X  41     100.850  75.930  29.030  1.00  0.00      SYST N  
+ATOM    624 HD21 ASN X  41     100.960  76.020  30.030  1.00  0.00      SYST    
+ATOM    625 HD22 ASN X  41      99.960  75.950  28.570  1.00  0.00      SYST    
+ATOM    626  C   ASN X  41     103.710  77.850  27.950  1.00  0.00      SYST C  
+ATOM    627  O   ASN X  41     103.190  78.920  28.260  1.00  0.00      SYST O  
+ATOM    628  N   THR X  42     104.170  77.620  26.690  1.00  0.00      SYST N  
+ATOM    629  H   THR X  42     104.680  76.770  26.470  1.00  0.00      SYST    
+ATOM    630  CA  THR X  42     104.150  78.670  25.590  1.00  0.00      SYST C  
+ATOM    631  HA  THR X  42     104.710  79.510  26.020  1.00  0.00      SYST    
+ATOM    632  CB  THR X  42     104.850  78.200  24.260  1.00  0.00      SYST C  
+ATOM    633  HB  THR X  42     104.220  77.390  23.900  1.00  0.00      SYST    
+ATOM    634  CG2 THR X  42     104.930  79.370  23.260  1.00  0.00      SYST C  
+ATOM    635 HG21 THR X  42     103.960  79.460  22.760  1.00  0.00      SYST    
+ATOM    636 HG22 THR X  42     105.190  80.280  23.800  1.00  0.00      SYST    
+ATOM    637 HG23 THR X  42     105.610  79.070  22.460  1.00  0.00      SYST    
+ATOM    638  OG1 THR X  42     106.170  77.810  24.500  1.00  0.00      SYST O  
+ATOM    639  HG1 THR X  42     106.460  77.360  23.710  1.00  0.00      SYST    
+ATOM    640  C   THR X  42     102.710  79.080  25.160  1.00  0.00      SYST C  
+ATOM    641  O   THR X  42     102.500  80.230  24.720  1.00  0.00      SYST O  
+ATOM    642  N   ASP X  43     101.770  78.200  25.330  1.00  0.00      SYST N  
+ATOM    643  H   ASP X  43     102.030  77.260  25.580  1.00  0.00      SYST    
+ATOM    644  CA  ASP X  43     100.370  78.380  25.050  1.00  0.00      SYST C  
+ATOM    645  HA  ASP X  43     100.310  79.180  24.320  1.00  0.00      SYST    
+ATOM    646  CB  ASP X  43      99.770  77.190  24.320  1.00  0.00      SYST C  
+ATOM    647  HB1 ASP X  43      98.730  77.440  24.070  1.00  0.00      SYST    
+ATOM    648  HB2 ASP X  43      99.740  76.350  25.020  1.00  0.00      SYST    
+ATOM    649  CG  ASP X  43     100.440  76.760  23.000  1.00  0.00      SYST C  
+ATOM    650  OD1 ASP X  43     101.590  77.150  22.660  1.00  0.00      SYST O  
+ATOM    651  OD2 ASP X  43      99.720  76.050  22.290  1.00  0.00      SYST O  
+ATOM    652  C   ASP X  43      99.580  78.830  26.250  1.00  0.00      SYST C  
+ATOM    653  O   ASP X  43      98.430  79.130  25.980  1.00  0.00      SYST O  
+ATOM    654  N   ALA X  44     100.180  79.120  27.430  1.00  0.00      SYST N  
+ATOM    655  H   ALA X  44     101.160  78.880  27.530  1.00  0.00      SYST    
+ATOM    656  CA  ALA X  44      99.410  79.640  28.570  1.00  0.00      SYST C  
+ATOM    657  HA  ALA X  44      98.600  78.930  28.740  1.00  0.00      SYST    
+ATOM    658  CB  ALA X  44     100.410  79.570  29.850  1.00  0.00      SYST C  
+ATOM    659  HB1 ALA X  44     101.370  80.040  29.620  1.00  0.00      SYST    
+ATOM    660  HB2 ALA X  44      99.960  79.910  30.780  1.00  0.00      SYST    
+ATOM    661  HB3 ALA X  44     100.660  78.520  29.950  1.00  0.00      SYST    
+ATOM    662  C   ALA X  44      98.610  80.920  28.380  1.00  0.00      SYST C  
+ATOM    663  O   ALA X  44      97.530  80.980  29.000  1.00  0.00      SYST O  
+ATOM    664  N   THR X  45      98.970  81.860  27.520  1.00  0.00      SYST N  
+ATOM    665  H   THR X  45      99.810  81.730  26.960  1.00  0.00      SYST    
+ATOM    666  CA  THR X  45      98.120  82.980  27.020  1.00  0.00      SYST C  
+ATOM    667  HA  THR X  45      98.050  83.720  27.810  1.00  0.00      SYST    
+ATOM    668  CB  THR X  45      98.850  83.600  25.830  1.00  0.00      SYST C  
+ATOM    669  HB  THR X  45      98.250  84.370  25.330  1.00  0.00      SYST    
+ATOM    670  CG2 THR X  45     100.220  84.310  26.170  1.00  0.00      SYST C  
+ATOM    671 HG21 THR X  45     100.480  85.010  25.380  1.00  0.00      SYST    
+ATOM    672 HG22 THR X  45     100.070  84.930  27.060  1.00  0.00      SYST    
+ATOM    673 HG23 THR X  45     101.000  83.570  26.360  1.00  0.00      SYST    
+ATOM    674  OG1 THR X  45      99.180  82.510  24.900  1.00  0.00      SYST O  
+ATOM    675  HG1 THR X  45      99.340  83.120  24.180  1.00  0.00      SYST    
+ATOM    676  C   THR X  45      96.700  82.630  26.610  1.00  0.00      SYST C  
+ATOM    677  O   THR X  45      95.840  83.460  26.730  1.00  0.00      SYST O  
+ATOM    678  N   GLY X  46      96.460  81.440  25.970  1.00  0.00      SYST N  
+ATOM    679  H   GLY X  46      97.290  80.870  25.940  1.00  0.00      SYST    
+ATOM    680  CA  GLY X  46      95.170  81.040  25.440  1.00  0.00      SYST C  
+ATOM    681  HA1 GLY X  46      95.330  80.030  25.050  1.00  0.00      SYST    
+ATOM    682  HA2 GLY X  46      94.930  81.700  24.590  1.00  0.00      SYST    
+ATOM    683  C   GLY X  46      94.060  80.970  26.500  1.00  0.00      SYST C  
+ATOM    684  O   GLY X  46      92.930  81.270  26.170  1.00  0.00      SYST O  
+ATOM    685  N   LEU X  47      94.380  80.760  27.750  1.00  0.00      SYST N  
+ATOM    686  H   LEU X  47      95.350  80.570  27.930  1.00  0.00      SYST    
+ATOM    687  CA  LEU X  47      93.400  80.760  28.840  1.00  0.00      SYST C  
+ATOM    688  HA  LEU X  47      92.530  80.190  28.520  1.00  0.00      SYST    
+ATOM    689  CB  LEU X  47      94.020  80.120  30.130  1.00  0.00      SYST C  
+ATOM    690  HB1 LEU X  47      93.500  80.440  31.040  1.00  0.00      SYST    
+ATOM    691  HB2 LEU X  47      95.050  80.470  30.180  1.00  0.00      SYST    
+ATOM    692  CG  LEU X  47      94.020  78.590  30.030  1.00  0.00      SYST C  
+ATOM    693  HG  LEU X  47      94.500  78.150  29.150  1.00  0.00      SYST    
+ATOM    694  CD1 LEU X  47      94.710  78.190  31.330  1.00  0.00      SYST C  
+ATOM    695 HD11 LEU X  47      95.650  78.740  31.360  1.00  0.00      SYST    
+ATOM    696 HD12 LEU X  47      94.070  78.450  32.170  1.00  0.00      SYST    
+ATOM    697 HD13 LEU X  47      94.950  77.130  31.360  1.00  0.00      SYST    
+ATOM    698  CD2 LEU X  47      92.590  78.090  30.170  1.00  0.00      SYST C  
+ATOM    699 HD21 LEU X  47      92.640  77.020  30.380  1.00  0.00      SYST    
+ATOM    700 HD22 LEU X  47      92.050  78.550  31.000  1.00  0.00      SYST    
+ATOM    701 HD23 LEU X  47      92.060  78.200  29.220  1.00  0.00      SYST    
+ATOM    702  C   LEU X  47      92.740  82.130  29.200  1.00  0.00      SYST C  
+ATOM    703  O   LEU X  47      91.670  82.160  29.850  1.00  0.00      SYST O  
+ATOM    704  N   GLU X  48      93.350  83.220  28.810  1.00  0.00      SYST N  
+ATOM    705  H   GLU X  48      94.230  83.120  28.340  1.00  0.00      SYST    
+ATOM    706  CA  GLU X  48      92.740  84.560  28.790  1.00  0.00      SYST C  
+ATOM    707  HA  GLU X  48      92.360  84.750  29.800  1.00  0.00      SYST    
+ATOM    708  CB  GLU X  48      93.810  85.680  28.450  1.00  0.00      SYST C  
+ATOM    709  HB1 GLU X  48      93.310  86.620  28.230  1.00  0.00      SYST    
+ATOM    710  HB2 GLU X  48      94.330  85.320  27.550  1.00  0.00      SYST    
+ATOM    711  CG  GLU X  48      94.880  85.710  29.520  1.00  0.00      SYST C  
+ATOM    712  HG1 GLU X  48      95.370  84.740  29.510  1.00  0.00      SYST    
+ATOM    713  HG2 GLU X  48      94.390  85.810  30.490  1.00  0.00      SYST    
+ATOM    714  CD  GLU X  48      95.820  86.930  29.550  1.00  0.00      SYST C  
+ATOM    715  OE1 GLU X  48      95.640  87.920  28.820  1.00  0.00      SYST O  
+ATOM    716  OE2 GLU X  48      96.840  86.890  30.330  1.00  0.00      SYST O  
+ATOM    717  C   GLU X  48      91.480  84.670  27.890  1.00  0.00      SYST C  
+ATOM    718  O   GLU X  48      90.530  85.290  28.290  1.00  0.00      SYST O  
+ATOM    719  N   GLU X  49      91.510  84.030  26.710  1.00  0.00      SYST N  
+ATOM    720  H   GLU X  49      92.300  83.470  26.430  1.00  0.00      SYST    
+ATOM    721  CA  GLU X  49      90.520  84.180  25.620  1.00  0.00      SYST C  
+ATOM    722  HA  GLU X  49      90.330  85.200  25.310  1.00  0.00      SYST    
+ATOM    723  CB  GLU X  49      91.110  83.560  24.330  1.00  0.00      SYST C  
+ATOM    724  HB1 GLU X  49      90.280  83.660  23.610  1.00  0.00      SYST    
+ATOM    725  HB2 GLU X  49      91.190  82.470  24.370  1.00  0.00      SYST    
+ATOM    726  CG  GLU X  49      92.420  84.210  23.860  1.00  0.00      SYST C  
+ATOM    727  HG1 GLU X  49      93.170  84.150  24.640  1.00  0.00      SYST    
+ATOM    728  HG2 GLU X  49      92.190  85.260  23.680  1.00  0.00      SYST    
+ATOM    729  CD  GLU X  49      93.180  83.700  22.620  1.00  0.00      SYST C  
+ATOM    730  OE1 GLU X  49      93.160  82.430  22.350  1.00  0.00      SYST O  
+ATOM    731  OE2 GLU X  49      93.660  84.540  21.880  1.00  0.00      SYST O  
+ATOM    732  C   GLU X  49      89.180  83.500  26.020  1.00  0.00      SYST C  
+ATOM    733  O   GLU X  49      88.090  83.870  25.510  1.00  0.00      SYST O  
+ATOM    734  N   ILE X  50      89.310  82.570  27.000  1.00  0.00      SYST N  
+ATOM    735  H   ILE X  50      90.240  82.330  27.300  1.00  0.00      SYST    
+ATOM    736  CA  ILE X  50      88.150  81.940  27.650  1.00  0.00      SYST C  
+ATOM    737  HA  ILE X  50      87.520  81.670  26.810  1.00  0.00      SYST    
+ATOM    738  CB  ILE X  50      88.510  80.580  28.260  1.00  0.00      SYST C  
+ATOM    739  HB  ILE X  50      89.020  80.890  29.180  1.00  0.00      SYST    
+ATOM    740  CG2 ILE X  50      87.280  79.790  28.630  1.00  0.00      SYST C  
+ATOM    741 HG21 ILE X  50      87.500  78.830  29.110  1.00  0.00      SYST    
+ATOM    742 HG22 ILE X  50      86.690  80.520  29.170  1.00  0.00      SYST    
+ATOM    743 HG23 ILE X  50      86.700  79.590  27.730  1.00  0.00      SYST    
+ATOM    744  CG1 ILE X  50      89.440  79.650  27.260  1.00  0.00      SYST C  
+ATOM    745 HG11 ILE X  50      89.640  78.720  27.790  1.00  0.00      SYST    
+ATOM    746 HG12 ILE X  50      90.440  80.060  27.140  1.00  0.00      SYST    
+ATOM    747  CD  ILE X  50      88.890  79.330  25.900  1.00  0.00      SYST C  
+ATOM    748  HD1 ILE X  50      89.590  78.720  25.320  1.00  0.00      SYST    
+ATOM    749  HD2 ILE X  50      87.920  78.860  26.010  1.00  0.00      SYST    
+ATOM    750  HD3 ILE X  50      88.770  80.280  25.370  1.00  0.00      SYST    
+ATOM    751  C   ILE X  50      87.390  82.890  28.600  1.00  0.00      SYST C  
+ATOM    752  O   ILE X  50      86.120  83.030  28.510  1.00  0.00      SYST O  
+ATOM    753  N   ASP X  51      88.150  83.500  29.540  1.00  0.00      SYST N  
+ATOM    754  H   ASP X  51      89.140  83.290  29.560  1.00  0.00      SYST    
+ATOM    755  CA  ASP X  51      87.580  84.390  30.510  1.00  0.00      SYST C  
+ATOM    756  HA  ASP X  51      86.710  83.910  30.960  1.00  0.00      SYST    
+ATOM    757  CB  ASP X  51      88.650  84.690  31.630  1.00  0.00      SYST C  
+ATOM    758  HB1 ASP X  51      88.360  85.530  32.260  1.00  0.00      SYST    
+ATOM    759  HB2 ASP X  51      89.620  84.930  31.200  1.00  0.00      SYST    
+ATOM    760  CG  ASP X  51      88.840  83.440  32.560  1.00  0.00      SYST C  
+ATOM    761  OD1 ASP X  51      89.620  83.580  33.540  1.00  0.00      SYST O  
+ATOM    762  OD2 ASP X  51      88.320  82.360  32.320  1.00  0.00      SYST O  
+ATOM    763  C   ASP X  51      87.160  85.780  29.960  1.00  0.00      SYST C  
+ATOM    764  O   ASP X  51      86.140  86.240  30.350  1.00  0.00      SYST O  
+ATOM    765  N   ARG X  52      87.830  86.260  28.940  1.00  0.00      SYST N  
+ATOM    766  H   ARG X  52      88.640  85.730  28.650  1.00  0.00      SYST    
+ATOM    767  CA  ARG X  52      87.310  87.420  28.160  1.00  0.00      SYST C  
+ATOM    768  HA  ARG X  52      87.340  88.230  28.890  1.00  0.00      SYST    
+ATOM    769  CB  ARG X  52      88.280  87.630  27.010  1.00  0.00      SYST C  
+ATOM    770  HB1 ARG X  52      88.330  86.810  26.300  1.00  0.00      SYST    
+ATOM    771  HB2 ARG X  52      89.270  87.890  27.370  1.00  0.00      SYST    
+ATOM    772  CG  ARG X  52      87.780  88.910  26.320  1.00  0.00      SYST C  
+ATOM    773  HG1 ARG X  52      87.660  89.720  27.030  1.00  0.00      SYST    
+ATOM    774  HG2 ARG X  52      86.850  88.650  25.830  1.00  0.00      SYST    
+ATOM    775  CD  ARG X  52      88.630  89.390  25.190  1.00  0.00      SYST C  
+ATOM    776  HD1 ARG X  52      89.600  89.480  25.700  1.00  0.00      SYST    
+ATOM    777  HD2 ARG X  52      88.220  90.340  24.850  1.00  0.00      SYST    
+ATOM    778  NE  ARG X  52      88.740  88.370  24.120  1.00  0.00      SYST N  
+ATOM    779  HE  ARG X  52      87.900  87.890  23.850  1.00  0.00      SYST    
+ATOM    780  CZ  ARG X  52      89.800  87.950  23.530  1.00  0.00      SYST C  
+ATOM    781  NH1 ARG X  52      90.980  88.450  23.690  1.00  0.00      SYST N  
+ATOM    782 HH11 ARG X  52      91.190  89.210  24.330  1.00  0.00      SYST    
+ATOM    783 HH12 ARG X  52      91.720  87.890  23.290  1.00  0.00      SYST    
+ATOM    784  NH2 ARG X  52      89.660  86.900  22.730  1.00  0.00      SYST N  
+ATOM    785 HH21 ARG X  52      88.690  86.690  22.500  1.00  0.00      SYST    
+ATOM    786 HH22 ARG X  52      90.360  86.490  22.140  1.00  0.00      SYST    
+ATOM    787  C   ARG X  52      85.900  87.090  27.670  1.00  0.00      SYST C  
+ATOM    788  O   ARG X  52      84.930  87.890  27.680  1.00  0.00      SYST O  
+ATOM    789  N   ALA X  53      85.720  85.790  27.290  1.00  0.00      SYST N  
+ATOM    790  H   ALA X  53      86.530  85.200  27.220  1.00  0.00      SYST    
+ATOM    791  CA  ALA X  53      84.460  85.400  26.630  1.00  0.00      SYST C  
+ATOM    792  HA  ALA X  53      84.050  86.230  26.050  1.00  0.00      SYST    
+ATOM    793  CB  ALA X  53      84.820  84.180  25.750  1.00  0.00      SYST C  
+ATOM    794  HB1 ALA X  53      83.960  83.660  25.350  1.00  0.00      SYST    
+ATOM    795  HB2 ALA X  53      85.430  84.550  24.920  1.00  0.00      SYST    
+ATOM    796  HB3 ALA X  53      85.380  83.460  26.350  1.00  0.00      SYST    
+ATOM    797  C   ALA X  53      83.350  85.100  27.710  1.00  0.00      SYST C  
+ATOM    798  O   ALA X  53      82.140  85.300  27.500  1.00  0.00      SYST O  
+ATOM    799  N   LEU X  54      83.760  84.630  28.920  1.00  0.00      SYST N  
+ATOM    800  H   LEU X  54      84.720  84.440  29.150  1.00  0.00      SYST    
+ATOM    801  CA  LEU X  54      82.770  84.320  30.020  1.00  0.00      SYST C  
+ATOM    802  HA  LEU X  54      81.990  83.780  29.490  1.00  0.00      SYST    
+ATOM    803  CB  LEU X  54      83.420  83.340  30.950  1.00  0.00      SYST C  
+ATOM    804  HB1 LEU X  54      84.200  83.890  31.490  1.00  0.00      SYST    
+ATOM    805  HB2 LEU X  54      83.830  82.580  30.280  1.00  0.00      SYST    
+ATOM    806  CG  LEU X  54      82.530  82.710  32.010  1.00  0.00      SYST C  
+ATOM    807  HG  LEU X  54      83.190  81.960  32.440  1.00  0.00      SYST    
+ATOM    808  CD1 LEU X  54      82.150  83.600  33.240  1.00  0.00      SYST C  
+ATOM    809 HD11 LEU X  54      81.440  84.400  33.050  1.00  0.00      SYST    
+ATOM    810 HD12 LEU X  54      81.760  82.860  33.930  1.00  0.00      SYST    
+ATOM    811 HD13 LEU X  54      83.100  83.980  33.630  1.00  0.00      SYST    
+ATOM    812  CD2 LEU X  54      81.270  81.950  31.480  1.00  0.00      SYST C  
+ATOM    813 HD21 LEU X  54      81.000  81.250  32.270  1.00  0.00      SYST    
+ATOM    814 HD22 LEU X  54      80.530  82.720  31.290  1.00  0.00      SYST    
+ATOM    815 HD23 LEU X  54      81.570  81.210  30.740  1.00  0.00      SYST    
+ATOM    816  C   LEU X  54      82.210  85.580  30.650  1.00  0.00      SYST C  
+ATOM    817  O   LEU X  54      81.010  85.640  31.000  1.00  0.00      SYST O  
+ATOM    818  N   GLY X  55      83.030  86.620  30.700  1.00  0.00      SYST N  
+ATOM    819  H   GLY X  55      83.950  86.410  30.330  1.00  0.00      SYST    
+ATOM    820  CA  GLY X  55      82.590  87.950  31.020  1.00  0.00      SYST C  
+ATOM    821  HA1 GLY X  55      81.570  87.860  31.410  1.00  0.00      SYST    
+ATOM    822  HA2 GLY X  55      82.600  88.460  30.060  1.00  0.00      SYST    
+ATOM    823  C   GLY X  55      83.540  88.680  31.960  1.00  0.00      SYST C  
+ATOM    824  O   GLY X  55      84.450  88.050  32.580  1.00  0.00      SYST O  
+ATOM    825  N   ILE X  56      83.340  90.000  31.950  1.00  0.00      SYST N  
+ATOM    826  H   ILE X  56      82.520  90.440  31.570  1.00  0.00      SYST    
+ATOM    827  CA  ILE X  56      84.400  90.970  32.510  1.00  0.00      SYST C  
+ATOM    828  HA  ILE X  56      85.160  90.330  32.960  1.00  0.00      SYST    
+ATOM    829  CB  ILE X  56      85.090  91.730  31.350  1.00  0.00      SYST C  
+ATOM    830  HB  ILE X  56      84.360  92.440  30.970  1.00  0.00      SYST    
+ATOM    831  CG2 ILE X  56      86.390  92.300  31.950  1.00  0.00      SYST C  
+ATOM    832 HG21 ILE X  56      86.190  92.700  32.950  1.00  0.00      SYST    
+ATOM    833 HG22 ILE X  56      87.200  91.570  31.920  1.00  0.00      SYST    
+ATOM    834 HG23 ILE X  56      86.780  93.140  31.370  1.00  0.00      SYST    
+ATOM    835  CG1 ILE X  56      85.480  90.900  30.120  1.00  0.00      SYST C  
+ATOM    836 HG11 ILE X  56      84.620  90.320  29.800  1.00  0.00      SYST    
+ATOM    837 HG12 ILE X  56      86.310  90.280  30.470  1.00  0.00      SYST    
+ATOM    838  CD  ILE X  56      85.730  91.830  28.910  1.00  0.00      SYST C  
+ATOM    839  HD1 ILE X  56      86.350  92.680  29.200  1.00  0.00      SYST    
+ATOM    840  HD2 ILE X  56      86.070  91.210  28.080  1.00  0.00      SYST    
+ATOM    841  HD3 ILE X  56      84.730  92.110  28.580  1.00  0.00      SYST    
+ATOM    842  C   ILE X  56      83.790  91.950  33.500  1.00  0.00      SYST C  
+ATOM    843  O   ILE X  56      83.260  93.020  33.120  1.00  0.00      SYST O  
+ATOM    844  N   PRO X  57      83.880  91.630  34.790  1.00  0.00      SYST N  
+ATOM    845  CD  PRO X  57      84.260  90.290  35.250  1.00  0.00      SYST C  
+ATOM    846  HD1 PRO X  57      85.350  90.240  35.190  1.00  0.00      SYST    
+ATOM    847  HD2 PRO X  57      83.770  89.550  34.620  1.00  0.00      SYST    
+ATOM    848  CG  PRO X  57      83.650  90.300  36.670  1.00  0.00      SYST C  
+ATOM    849  HG1 PRO X  57      84.190  89.550  37.240  1.00  0.00      SYST    
+ATOM    850  HG2 PRO X  57      82.570  90.110  36.660  1.00  0.00      SYST    
+ATOM    851  CB  PRO X  57      83.830  91.690  37.170  1.00  0.00      SYST C  
+ATOM    852  HB1 PRO X  57      84.860  91.780  37.510  1.00  0.00      SYST    
+ATOM    853  HB2 PRO X  57      83.160  92.000  37.970  1.00  0.00      SYST    
+ATOM    854  CA  PRO X  57      83.430  92.440  35.910  1.00  0.00      SYST C  
+ATOM    855  HA  PRO X  57      82.350  92.480  35.780  1.00  0.00      SYST    
+ATOM    856  C   PRO X  57      83.850  93.880  35.900  1.00  0.00      SYST C  
+ATOM    857  O   PRO X  57      83.180  94.780  36.480  1.00  0.00      SYST O  
+ATOM    858  N   GLU X  58      85.070  94.130  35.300  1.00  0.00      SYST N  
+ATOM    859  H   GLU X  58      85.550  93.320  34.940  1.00  0.00      SYST    
+ATOM    860  CA  GLU X  58      85.630  95.500  35.190  1.00  0.00      SYST C  
+ATOM    861  HA  GLU X  58      86.100  95.910  36.080  1.00  0.00      SYST    
+ATOM    862  CB  GLU X  58      86.750  95.520  34.200  1.00  0.00      SYST C  
+ATOM    863  HB1 GLU X  58      86.640  95.100  33.200  1.00  0.00      SYST    
+ATOM    864  HB2 GLU X  58      87.480  94.820  34.610  1.00  0.00      SYST    
+ATOM    865  CG  GLU X  58      87.490  96.890  34.150  1.00  0.00      SYST C  
+ATOM    866  HG1 GLU X  58      87.350  97.410  35.100  1.00  0.00      SYST    
+ATOM    867  HG2 GLU X  58      87.130  97.540  33.350  1.00  0.00      SYST    
+ATOM    868  CD  GLU X  58      88.970  96.840  33.970  1.00  0.00      SYST C  
+ATOM    869  OE1 GLU X  58      89.650  96.270  34.820  1.00  0.00      SYST O  
+ATOM    870  OE2 GLU X  58      89.530  97.510  33.030  1.00  0.00      SYST O  
+ATOM    871  C   GLU X  58      84.620  96.500  34.660  1.00  0.00      SYST C  
+ATOM    872  O   GLU X  58      84.530  97.620  35.070  1.00  0.00      SYST O  
+ATOM    873  N   LEU X  59      83.740  95.950  33.740  1.00  0.00      SYST N  
+ATOM    874  H   LEU X  59      84.000  95.000  33.490  1.00  0.00      SYST    
+ATOM    875  CA  LEU X  59      82.760  96.680  32.930  1.00  0.00      SYST C  
+ATOM    876  HA  LEU X  59      83.270  97.630  32.770  1.00  0.00      SYST    
+ATOM    877  CB  LEU X  59      82.590  95.950  31.550  1.00  0.00      SYST C  
+ATOM    878  HB1 LEU X  59      82.040  96.560  30.840  1.00  0.00      SYST    
+ATOM    879  HB2 LEU X  59      82.010  95.030  31.680  1.00  0.00      SYST    
+ATOM    880  CG  LEU X  59      83.900  95.460  30.900  1.00  0.00      SYST C  
+ATOM    881  HG  LEU X  59      84.510  94.750  31.470  1.00  0.00      SYST    
+ATOM    882  CD1 LEU X  59      83.460  94.940  29.500  1.00  0.00      SYST C  
+ATOM    883 HD11 LEU X  59      82.720  94.140  29.550  1.00  0.00      SYST    
+ATOM    884 HD12 LEU X  59      82.930  95.770  29.040  1.00  0.00      SYST    
+ATOM    885 HD13 LEU X  59      84.310  94.590  28.910  1.00  0.00      SYST    
+ATOM    886  CD2 LEU X  59      84.760  96.710  30.710  1.00  0.00      SYST C  
+ATOM    887 HD21 LEU X  59      85.120  97.110  31.660  1.00  0.00      SYST    
+ATOM    888 HD22 LEU X  59      85.500  96.480  29.950  1.00  0.00      SYST    
+ATOM    889 HD23 LEU X  59      84.090  97.520  30.390  1.00  0.00      SYST    
+ATOM    890  C   LEU X  59      81.400  96.960  33.530  1.00  0.00      SYST C  
+ATOM    891  O   LEU X  59      80.630  97.840  32.930  1.00  0.00      SYST O  
+ATOM    892  N   VAL X  60      81.080  96.360  34.680  1.00  0.00      SYST N  
+ATOM    893  H   VAL X  60      81.780  95.830  35.190  1.00  0.00      SYST    
+ATOM    894  CA  VAL X  60      79.740  96.480  35.350  1.00  0.00      SYST C  
+ATOM    895  HA  VAL X  60      79.020  96.530  34.530  1.00  0.00      SYST    
+ATOM    896  CB  VAL X  60      79.300  95.270  36.210  1.00  0.00      SYST C  
+ATOM    897  HB  VAL X  60      79.630  95.360  37.240  1.00  0.00      SYST    
+ATOM    898  CG1 VAL X  60      77.750  95.220  36.210  1.00  0.00      SYST C  
+ATOM    899 HG11 VAL X  60      77.380  94.380  36.790  1.00  0.00      SYST    
+ATOM    900 HG12 VAL X  60      77.310  96.140  36.590  1.00  0.00      SYST    
+ATOM    901 HG13 VAL X  60      77.310  95.020  35.230  1.00  0.00      SYST    
+ATOM    902  CG2 VAL X  60      79.710  93.850  35.730  1.00  0.00      SYST C  
+ATOM    903 HG21 VAL X  60      80.690  93.910  35.270  1.00  0.00      SYST    
+ATOM    904 HG22 VAL X  60      79.680  93.070  36.490  1.00  0.00      SYST    
+ATOM    905 HG23 VAL X  60      79.080  93.470  34.930  1.00  0.00      SYST    
+ATOM    906  C   VAL X  60      79.710  97.700  36.170  1.00  0.00      SYST C  
+ATOM    907  O   VAL X  60      80.700  97.960  36.860  1.00  0.00      SYST O  
+ATOM    908  N   ASN X  61      78.670  98.470  36.150  1.00  0.00      SYST N  
+ATOM    909  H   ASN X  61      77.910  98.320  35.510  1.00  0.00      SYST    
+ATOM    910  CA  ASN X  61      78.470  99.470  37.230  1.00  0.00      SYST C  
+ATOM    911  HA  ASN X  61      79.280 100.200  37.140  1.00  0.00      SYST    
+ATOM    912  CB  ASN X  61      77.160 100.320  36.980  1.00  0.00      SYST C  
+ATOM    913  HB1 ASN X  61      76.370  99.620  36.710  1.00  0.00      SYST    
+ATOM    914  HB2 ASN X  61      77.330 100.980  36.130  1.00  0.00      SYST    
+ATOM    915  CG  ASN X  61      76.720 101.170  38.250  1.00  0.00      SYST C  
+ATOM    916  OD1 ASN X  61      77.260 102.200  38.550  1.00  0.00      SYST O  
+ATOM    917  ND2 ASN X  61      75.700 100.790  38.900  1.00  0.00      SYST N  
+ATOM    918 HD21 ASN X  61      75.050 100.170  38.440  1.00  0.00      SYST    
+ATOM    919 HD22 ASN X  61      75.370 101.370  39.650  1.00  0.00      SYST    
+ATOM    920  C   ASN X  61      78.510  98.860  38.710  1.00  0.00      SYST C  
+ATOM    921  O   ASN X  61      77.830  97.850  39.040  1.00  0.00      SYST O  
+ATOM    922  N   GLN X  62      79.280  99.540  39.550  1.00  0.00      SYST N  
+ATOM    923  H   GLN X  62      79.910 100.250  39.230  1.00  0.00      SYST    
+ATOM    924  CA  GLN X  62      79.640  99.200  40.940  1.00  0.00      SYST C  
+ATOM    925  HA  GLN X  62      80.570  99.640  41.310  1.00  0.00      SYST    
+ATOM    926  CB  GLN X  62      78.470  99.590  41.800  1.00  0.00      SYST C  
+ATOM    927  HB1 GLN X  62      78.610  99.190  42.800  1.00  0.00      SYST    
+ATOM    928  HB2 GLN X  62      77.600  99.010  41.470  1.00  0.00      SYST    
+ATOM    929  CG  GLN X  62      78.270 101.110  41.860  1.00  0.00      SYST C  
+ATOM    930  HG1 GLN X  62      77.670 101.430  41.000  1.00  0.00      SYST    
+ATOM    931  HG2 GLN X  62      79.250 101.590  41.910  1.00  0.00      SYST    
+ATOM    932  CD  GLN X  62      77.500 101.540  43.070  1.00  0.00      SYST C  
+ATOM    933  OE1 GLN X  62      76.580 100.880  43.580  1.00  0.00      SYST O  
+ATOM    934  NE2 GLN X  62      77.540 102.840  43.380  1.00  0.00      SYST N  
+ATOM    935 HE21 GLN X  62      78.220 103.390  42.880  1.00  0.00      SYST    
+ATOM    936 HE22 GLN X  62      77.130 103.260  44.200  1.00  0.00      SYST    
+ATOM    937  C   GLN X  62      80.050  97.680  41.150  1.00  0.00      SYST C  
+ATOM    938  O   GLN X  62      79.600  97.020  42.090  1.00  0.00      SYST O  
+ATOM    939  N   GLY X  63      80.720  97.060  40.190  1.00  0.00      SYST N  
+ATOM    940  H   GLY X  63      81.010  97.680  39.450  1.00  0.00      SYST    
+ATOM    941  CA  GLY X  63      81.150  95.700  40.160  1.00  0.00      SYST C  
+ATOM    942  HA1 GLY X  63      81.880  95.580  40.960  1.00  0.00      SYST    
+ATOM    943  HA2 GLY X  63      81.730  95.420  39.280  1.00  0.00      SYST    
+ATOM    944  C   GLY X  63      79.950  94.710  40.440  1.00  0.00      SYST C  
+ATOM    945  O   GLY X  63      80.220  93.720  41.100  1.00  0.00      SYST O  
+ATOM    946  N   GLN X  64      78.710  94.960  39.970  1.00  0.00      SYST N  
+ATOM    947  H   GLN X  64      78.490  95.880  39.610  1.00  0.00      SYST    
+ATOM    948  CA  GLN X  64      77.610  94.100  40.310  1.00  0.00      SYST C  
+ATOM    949  HA  GLN X  64      77.650  93.820  41.360  1.00  0.00      SYST    
+ATOM    950  CB  GLN X  64      76.260  94.830  40.160  1.00  0.00      SYST C  
+ATOM    951  HB1 GLN X  64      75.420  94.130  40.150  1.00  0.00      SYST    
+ATOM    952  HB2 GLN X  64      76.220  95.440  39.260  1.00  0.00      SYST    
+ATOM    953  CG  GLN X  64      76.020  95.690  41.380  1.00  0.00      SYST C  
+ATOM    954  HG1 GLN X  64      76.890  96.250  41.730  1.00  0.00      SYST    
+ATOM    955  HG2 GLN X  64      75.740  95.030  42.200  1.00  0.00      SYST    
+ATOM    956  CD  GLN X  64      74.870  96.580  41.280  1.00  0.00      SYST C  
+ATOM    957  OE1 GLN X  64      73.790  96.280  41.780  1.00  0.00      SYST O  
+ATOM    958  NE2 GLN X  64      75.010  97.710  40.660  1.00  0.00      SYST N  
+ATOM    959 HE21 GLN X  64      75.840  97.820  40.100  1.00  0.00      SYST    
+ATOM    960 HE22 GLN X  64      74.200  98.300  40.470  1.00  0.00      SYST    
+ATOM    961  C   GLN X  64      77.580  92.630  39.630  1.00  0.00      SYST C  
+ATOM    962  O   GLN X  64      78.070  92.520  38.500  1.00  0.00      SYST O  
+ATOM    963  N   ALA X  65      77.090  91.640  40.300  1.00  0.00      SYST N  
+ATOM    964  H   ALA X  65      76.680  91.810  41.210  1.00  0.00      SYST    
+ATOM    965  CA  ALA X  65      76.860  90.370  39.730  1.00  0.00      SYST C  
+ATOM    966  HA  ALA X  65      77.730  90.020  39.180  1.00  0.00      SYST    
+ATOM    967  CB  ALA X  65      76.640  89.390  40.840  1.00  0.00      SYST C  
+ATOM    968  HB1 ALA X  65      76.540  88.380  40.430  1.00  0.00      SYST    
+ATOM    969  HB2 ALA X  65      77.600  89.290  41.350  1.00  0.00      SYST    
+ATOM    970  HB3 ALA X  65      75.850  89.670  41.540  1.00  0.00      SYST    
+ATOM    971  C   ALA X  65      75.620  90.450  38.740  1.00  0.00      SYST C  
+ATOM    972  O   ALA X  65      74.560  91.000  39.050  1.00  0.00      SYST O  
+ATOM    973  N   LEU X  66      75.590  89.690  37.610  1.00  0.00      SYST N  
+ATOM    974  H   LEU X  66      76.520  89.380  37.370  1.00  0.00      SYST    
+ATOM    975  CA  LEU X  66      74.670  89.900  36.500  1.00  0.00      SYST C  
+ATOM    976  HA  LEU X  66      74.380  90.950  36.510  1.00  0.00      SYST    
+ATOM    977  CB  LEU X  66      75.340  89.570  35.150  1.00  0.00      SYST C  
+ATOM    978  HB1 LEU X  66      74.470  89.490  34.500  1.00  0.00      SYST    
+ATOM    979  HB2 LEU X  66      75.700  88.540  35.190  1.00  0.00      SYST    
+ATOM    980  CG  LEU X  66      76.520  90.320  34.570  1.00  0.00      SYST C  
+ATOM    981  HG  LEU X  66      77.360  89.990  35.170  1.00  0.00      SYST    
+ATOM    982  CD1 LEU X  66      76.940  89.850  33.240  1.00  0.00      SYST C  
+ATOM    983 HD11 LEU X  66      76.970  88.770  33.330  1.00  0.00      SYST    
+ATOM    984 HD12 LEU X  66      76.310  90.280  32.460  1.00  0.00      SYST    
+ATOM    985 HD13 LEU X  66      77.960  90.210  33.110  1.00  0.00      SYST    
+ATOM    986  CD2 LEU X  66      76.560  91.850  34.700  1.00  0.00      SYST C  
+ATOM    987 HD21 LEU X  66      76.460  92.150  35.740  1.00  0.00      SYST    
+ATOM    988 HD22 LEU X  66      77.410  92.240  34.150  1.00  0.00      SYST    
+ATOM    989 HD23 LEU X  66      75.670  92.240  34.210  1.00  0.00      SYST    
+ATOM    990  C   LEU X  66      73.400  89.120  36.770  1.00  0.00      SYST C  
+ATOM    991  O   LEU X  66      73.360  88.030  37.270  1.00  0.00      SYST O  
+ATOM    992  N   GLU X  67      72.290  89.820  36.370  1.00  0.00      SYST N  
+ATOM    993  H   GLU X  67      72.460  90.660  35.840  1.00  0.00      SYST    
+ATOM    994  CA  GLU X  67      70.900  89.470  36.700  1.00  0.00      SYST C  
+ATOM    995  HA  GLU X  67      70.810  89.330  37.780  1.00  0.00      SYST    
+ATOM    996  CB  GLU X  67      70.000  90.560  36.270  1.00  0.00      SYST C  
+ATOM    997  HB1 GLU X  67      68.940  90.300  36.330  1.00  0.00      SYST    
+ATOM    998  HB2 GLU X  67      70.200  90.640  35.200  1.00  0.00      SYST    
+ATOM    999  CG  GLU X  67      70.270  91.890  37.030  1.00  0.00      SYST C  
+ATOM   1000  HG1 GLU X  67      71.300  92.230  36.950  1.00  0.00      SYST    
+ATOM   1001  HG2 GLU X  67      70.030  91.650  38.070  1.00  0.00      SYST    
+ATOM   1002  CD  GLU X  67      69.390  93.010  36.460  1.00  0.00      SYST C  
+ATOM   1003  OE1 GLU X  67      68.430  92.830  35.680  1.00  0.00      SYST O  
+ATOM   1004  OE2 GLU X  67      69.720  94.150  36.750  1.00  0.00      SYST O  
+ATOM   1005  C   GLU X  67      70.530  88.170  36.010  1.00  0.00      SYST C  
+ATOM   1006  O   GLU X  67      71.020  87.860  34.890  1.00  0.00      SYST O  
+ATOM   1007  N   PRO X  68      69.570  87.470  36.600  1.00  0.00      SYST N  
+ATOM   1008  CD  PRO X  68      69.070  87.450  37.950  1.00  0.00      SYST C  
+ATOM   1009  HD1 PRO X  68      68.380  88.300  37.990  1.00  0.00      SYST    
+ATOM   1010  HD2 PRO X  68      69.910  87.460  38.650  1.00  0.00      SYST    
+ATOM   1011  CG  PRO X  68      68.410  86.090  38.140  1.00  0.00      SYST C  
+ATOM   1012  HG1 PRO X  68      67.580  86.250  38.820  1.00  0.00      SYST    
+ATOM   1013  HG2 PRO X  68      69.080  85.390  38.640  1.00  0.00      SYST    
+ATOM   1014  CB  PRO X  68      67.960  85.600  36.850  1.00  0.00      SYST C  
+ATOM   1015  HB1 PRO X  68      66.920  85.870  36.640  1.00  0.00      SYST    
+ATOM   1016  HB2 PRO X  68      68.140  84.540  36.730  1.00  0.00      SYST    
+ATOM   1017  CA  PRO X  68      68.940  86.360  35.860  1.00  0.00      SYST C  
+ATOM   1018  HA  PRO X  68      69.620  85.620  35.450  1.00  0.00      SYST    
+ATOM   1019  C   PRO X  68      68.030  87.050  34.840  1.00  0.00      SYST C  
+ATOM   1020  O   PRO X  68      67.430  88.080  35.160  1.00  0.00      SYST O  
+ATOM   1021  N   LYS X  69      67.970  86.560  33.600  1.00  0.00      SYST N  
+ATOM   1022  H   LYS X  69      68.530  85.730  33.410  1.00  0.00      SYST    
+ATOM   1023  CA  LYS X  69      67.310  87.220  32.440  1.00  0.00      SYST C  
+ATOM   1024  HA  LYS X  69      67.510  88.280  32.570  1.00  0.00      SYST    
+ATOM   1025  CB  LYS X  69      68.010  86.950  31.080  1.00  0.00      SYST C  
+ATOM   1026  HB1 LYS X  69      67.590  87.530  30.260  1.00  0.00      SYST    
+ATOM   1027  HB2 LYS X  69      67.800  85.910  30.840  1.00  0.00      SYST    
+ATOM   1028  CG  LYS X  69      69.580  87.250  31.140  1.00  0.00      SYST C  
+ATOM   1029  HG1 LYS X  69      69.720  88.110  31.780  1.00  0.00      SYST    
+ATOM   1030  HG2 LYS X  69      69.640  87.770  30.180  1.00  0.00      SYST    
+ATOM   1031  CD  LYS X  69      70.500  86.030  31.400  1.00  0.00      SYST C  
+ATOM   1032  HD1 LYS X  69      70.120  85.640  32.340  1.00  0.00      SYST    
+ATOM   1033  HD2 LYS X  69      71.550  86.330  31.420  1.00  0.00      SYST    
+ATOM   1034  CE  LYS X  69      70.270  84.910  30.310  1.00  0.00      SYST C  
+ATOM   1035  HE1 LYS X  69      70.450  85.370  29.340  1.00  0.00      SYST    
+ATOM   1036  HE2 LYS X  69      69.270  84.480  30.320  1.00  0.00      SYST    
+ATOM   1037  NZ  LYS X  69      71.240  83.820  30.400  1.00  0.00      SYST N  
+ATOM   1038  HZ1 LYS X  69      71.860  83.880  29.600  1.00  0.00      SYST    
+ATOM   1039  HZ2 LYS X  69      71.850  83.980  31.190  1.00  0.00      SYST    
+ATOM   1040  HZ3 LYS X  69      70.860  82.890  30.470  1.00  0.00      SYST    
+ATOM   1041  C   LYS X  69      65.780  86.920  32.350  1.00  0.00      SYST C  
+ATOM   1042  O   LYS X  69      64.890  87.710  32.050  1.00  0.00      SYST O  
+ATOM   1043  N   GLN X  70      65.410  85.680  32.530  1.00  0.00      SYST N  
+ATOM   1044  H   GLN X  70      66.180  85.080  32.800  1.00  0.00      SYST    
+ATOM   1045  CA  GLN X  70      64.020  85.210  32.600  1.00  0.00      SYST C  
+ATOM   1046  HA  GLN X  70      63.470  85.670  31.780  1.00  0.00      SYST    
+ATOM   1047  CB  GLN X  70      64.030  83.700  32.540  1.00  0.00      SYST C  
+ATOM   1048  HB1 GLN X  70      63.030  83.370  32.800  1.00  0.00      SYST    
+ATOM   1049  HB2 GLN X  70      64.730  83.310  33.290  1.00  0.00      SYST    
+ATOM   1050  CG  GLN X  70      64.290  83.010  31.150  1.00  0.00      SYST C  
+ATOM   1051  HG1 GLN X  70      63.540  83.270  30.410  1.00  0.00      SYST    
+ATOM   1052  HG2 GLN X  70      64.330  81.930  31.300  1.00  0.00      SYST    
+ATOM   1053  CD  GLN X  70      65.650  83.400  30.560  1.00  0.00      SYST C  
+ATOM   1054  OE1 GLN X  70      66.690  82.900  30.870  1.00  0.00      SYST O  
+ATOM   1055  NE2 GLN X  70      65.740  84.430  29.710  1.00  0.00      SYST N  
+ATOM   1056 HE21 GLN X  70      64.860  84.880  29.520  1.00  0.00      SYST    
+ATOM   1057 HE22 GLN X  70      66.540  84.540  29.110  1.00  0.00      SYST    
+ATOM   1058  C   GLN X  70      63.290  85.670  33.820  1.00  0.00      SYST C  
+ATOM   1059  O   GLN X  70      63.830  85.450  34.900  1.00  0.00      SYST O  
+ATOM   1060  N   ASP X  71      62.120  86.320  33.580  1.00  0.00      SYST N  
+ATOM   1061  H   ASP X  71      61.870  86.490  32.620  1.00  0.00      SYST    
+ATOM   1062  CA  ASP X  71      61.220  86.960  34.640  1.00  0.00      SYST C  
+ATOM   1063  HA  ASP X  71      61.460  86.570  35.630  1.00  0.00      SYST    
+ATOM   1064  CB  ASP X  71      61.450  88.540  34.640  1.00  0.00      SYST C  
+ATOM   1065  HB1 ASP X  71      62.420  88.800  35.060  1.00  0.00      SYST    
+ATOM   1066  HB2 ASP X  71      60.800  89.030  35.360  1.00  0.00      SYST    
+ATOM   1067  CG  ASP X  71      61.350  89.240  33.310  1.00  0.00      SYST C  
+ATOM   1068  OD1 ASP X  71      61.680  90.440  33.240  1.00  0.00      SYST O  
+ATOM   1069  OD2 ASP X  71      60.960  88.600  32.300  1.00  0.00      SYST O  
+ATOM   1070  C   ASP X  71      59.760  86.660  34.470  1.00  0.00      SYST C  
+ATOM   1071  O   ASP X  71      58.930  87.310  35.110  1.00  0.00      SYST O  
+ATOM   1072  OXT ASP X  71      59.370  85.800  33.650  1.00  0.00      SYST O  
+END

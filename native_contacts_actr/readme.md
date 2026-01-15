@@ -1,0 +1,1 @@
+Contains all native contact pairs and distances of the bound state (1KBH, all atom and backbone, BB) and the top 6 cluster centroids from unbiased MD simulations initiated from 1KBH in the absence of CBP.

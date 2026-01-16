@@ -58,3 +58,5 @@ The repository is organised as follows:
 ## Dependencies
 
 A conda environment containing all required Python dependencies can be set up using `python_env.yml`.
+
+Ensemble reweighting calculations require BME: [https://github.com/KULL-Centre/BME](https://github.com/KULL-Centre/BME)

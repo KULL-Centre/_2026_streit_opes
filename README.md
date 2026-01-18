@@ -50,6 +50,9 @@ The repository is organised as follows:
 * **`plumed_files/`**
   PLUMED input files used for running and analysing OPES multiT simulations.
 
+* **`prep_analysis/`**
+  Notebooks to used to analyse trial / bias convergence simulations of all systems.
+
 * **`scripts/`**
   Python scripts used to calculate experimental observables, radii of gyration, intramolecular contacts, and fractions of native contacts.
 

@@ -4,7 +4,7 @@ This repository contains Python code and Jupyter notebooks to reproduce the anal
 
 > **Streit, J. O., Invernizzi, M., Bottaro, S., Tamiola, K., & Lindorff-Larsen, K. (2026).**
 > *Transient tertiary structure in intrinsically disordered proteins revealed by multithermal enhanced sampling.*
-> **bioRxiv** (URL TBA)
+> **bioRxiv** [https://www.biorxiv.org/content/10.64898/2026.01.17.700112v1](https://www.biorxiv.org/content/10.64898/2026.01.17.700112v1)
 
 ---
 

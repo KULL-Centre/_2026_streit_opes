@@ -2,13 +2,12 @@ name: NEW_ENV
 channels:
   - conda-forge
 dependencies:
-    # Base depends
   - python>=3.7.7
   - pip>=20.0.2
 
   - numpy>=1.18.1
   - mdtraj>=1.9.3
-  - matplotlib>=3.2.0=1
+  - matplotlib>=3.2.0
   - jupyter
   - MDAnalysis
   - openmm
@@ -18,4 +17,5 @@ dependencies:
   - seaborn
   - pandas
 
-# for pyblock, run "pip install pyblock" in the conda environment
+  - pip:
+      - pyblock

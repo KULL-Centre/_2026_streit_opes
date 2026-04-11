@@ -15,7 +15,7 @@ To run the analyses in this repository, additional data must be downloaded from 
 * **OPES multiT MD simulation data** and the **reweighted ACTR ensemble**:
   [https://zenodo.org/records/18249727](https://zenodo.org/records/18249727)
 
-* **Unbiased simulations**, **REST2 simulations**, **ELViM projection data** and  **all processed datafiles** required for the analysis notebooks (including data from the OPES multiT simulations:
+* **Unbiased simulations**, **REST2 simulations**, **ELViM projection data**, and  **all processed datafiles** required for the analysis notebooks (including data from the OPES multiT simulations):
   [https://zenodo.org/records/18253563](https://zenodo.org/records/19513198)
 
 Please download the data and place it in the root directory of this repository as expected by the analysis notebooks.
